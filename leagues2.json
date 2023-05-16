@@ -1,0 +1,3530 @@
+[
+	{
+		"id": "241179",
+		"name": "[10000m]",
+		"cname": "10000m",
+		"keyword_type_cname": "league",
+		"externalid": "427802"
+	},
+	{
+		"id": "241180",
+		"name": "[1000m]",
+		"cname": "1000m",
+		"keyword_type_cname": "league",
+		"externalid": "427803"
+	},
+	{
+		"id": "14139",
+		"name": "[100m-men]",
+		"cname": "100m-men",
+		"keyword_type_cname": "league",
+		"externalid": "17546"
+	},
+	{
+		"id": "74186",
+		"name": "[10am Black Friday Special]",
+		"cname": "10am-black-friday-special",
+		"keyword_type_cname": "league",
+		"externalid": "77811"
+	},
+	{
+		"id": "84658",
+		"name": "[10 days to go]",
+		"cname": "10-days-to-go",
+		"keyword_type_cname": "league",
+		"externalid": "88283"
+	},
+	{
+		"id": "41893",
+		"name": "[10Km Classic]",
+		"cname": "10km-classic",
+		"keyword_type_cname": "league",
+		"externalid": "45518"
+	},
+	{
+		"id": "241181",
+		"name": "[10km] [Classic] [Beitostolen]",
+		"cname": "10km-classic-beitostolen",
+		"keyword_type_cname": "league",
+		"externalid": "427804"
+	},
+	{
+		"id": "167030",
+		"name": "[10km] [Classic] [Cogne]",
+		"cname": "10km-classic-cogne",
+		"keyword_type_cname": "league",
+		"externalid": "371034"
+	},
+	{
+		"id": "78355",
+		"name": "[10km Classic Falun]",
+		"cname": "10km-classic-falun",
+		"keyword_type_cname": "league",
+		"externalid": "81980"
+	},
+	{
+		"id": "39874",
+		"name": "[10Km Classic Kuusamo]",
+		"cname": "10km-classic-kuusamo",
+		"keyword_type_cname": "league",
+		"externalid": "43499"
+	},
+	{
+		"id": "57503",
+		"name": "[10km] [Classic] [Lahti]",
+		"cname": "10km-classic-lahti",
+		"keyword_type_cname": "league",
+		"externalid": "61128"
+	},
+	{
+		"id": "40688",
+		"name": "[10km Classic Lanzerheide]",
+		"cname": "10km-classic-lanzerheide",
+		"keyword_type_cname": "league",
+		"externalid": "44313"
+	},
+	{
+		"id": "123393",
+		"name": "[10km] [Classic] [Lenzerheide]",
+		"cname": "10km-classic-lenzerheide",
+		"keyword_type_cname": "league",
+		"externalid": "127018"
+	},
+	{
+		"id": "40077",
+		"name": "[10Km Classic Lillehammer]",
+		"cname": "10km-classic-lillehammer",
+		"keyword_type_cname": "league",
+		"externalid": "43702"
+	},
+	{
+		"id": "241182",
+		"name": "[10km] [Classic] [Mass Start] [Engadin]",
+		"cname": "10km-classic-mass-start-engadin",
+		"keyword_type_cname": "league",
+		"externalid": "427805"
+	},
+	{
+		"id": "211946",
+		"name": "[10km] [Classic] [Mass Start] [Falun]",
+		"cname": "10km-classic-mass-start-falun",
+		"keyword_type_cname": "league",
+		"externalid": "416081"
+	},
+	{
+		"id": "137586",
+		"name": "[10km] [Classic] [Mass Start] [Val Di Fiemme]",
+		"cname": "10km-classic-mass-start-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "141211"
+	},
+	{
+		"id": "98547",
+		"name": "[10km] [Classic] [Mass Start] [Val Mustair]",
+		"cname": "10km-classic-mass-start-val-mustair",
+		"keyword_type_cname": "league",
+		"externalid": "102172"
+	},
+	{
+		"id": "241183",
+		"name": "[10km] [Classic] [Oberstdorf]",
+		"cname": "10km-classic-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "427806"
+	},
+	{
+		"id": "101098",
+		"name": "[10km Classic Otepaa]",
+		"cname": "10km-classic-otepaa",
+		"keyword_type_cname": "league",
+		"externalid": "104723"
+	},
+	{
+		"id": "124579",
+		"name": "[10km] [Classic] [Planica]",
+		"cname": "10km-classic-planica",
+		"keyword_type_cname": "league",
+		"externalid": "128204"
+	},
+	{
+		"id": "167031",
+		"name": "[10km] [Classic] [Pursuit]",
+		"cname": "10km-classic-pursuit",
+		"keyword_type_cname": "league",
+		"externalid": "371035"
+	},
+	{
+		"id": "137587",
+		"name": "[10km] [Classic] [Pursuit] [Lillehammer]",
+		"cname": "10km-classic-pursuit-lillehammer",
+		"keyword_type_cname": "league",
+		"externalid": "141212"
+	},
+	{
+		"id": "167032",
+		"name": "[10km] [Classic] [Pursuit] [Nove Mesto]",
+		"cname": "10km-classic-pursuit-nove-mesto",
+		"keyword_type_cname": "league",
+		"externalid": "371036"
+	},
+	{
+		"id": "167033",
+		"name": "[10km] [Classic] [Pursuit] [Ostersund]",
+		"cname": "10km-classic-pursuit-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "371037"
+	},
+	{
+		"id": "74413",
+		"name": "[10km] [Classic] [Pursuit] [Ruka]",
+		"cname": "10km-classic-pursuit-ruka",
+		"keyword_type_cname": "league",
+		"externalid": "78038"
+	},
+	{
+		"id": "122759",
+		"name": "[10km Classic Pursuit Toblach]",
+		"cname": "10km-classic-pursuit-toblach",
+		"keyword_type_cname": "league",
+		"externalid": "126384"
+	},
+	{
+		"id": "241184",
+		"name": "[10km] [Classic] [Pursuit] [Val Mustair]",
+		"cname": "10km-classic-pursuit-val-mustair",
+		"keyword_type_cname": "league",
+		"externalid": "427807"
+	},
+	{
+		"id": "53719",
+		"name": "[10km Classic Ruka]",
+		"cname": "10km-classic-ruka",
+		"keyword_type_cname": "league",
+		"externalid": "57344"
+	},
+	{
+		"id": "41369",
+		"name": "[10Km Classic Szklarska Poreba]",
+		"cname": "10km-classic-szklarska-poreba",
+		"keyword_type_cname": "league",
+		"externalid": "44994"
+	},
+	{
+		"id": "41719",
+		"name": "[10km] [Classic] [Toblach]",
+		"cname": "10km-classic-toblach",
+		"keyword_type_cname": "league",
+		"externalid": "45344"
+	},
+	{
+		"id": "40762",
+		"name": "[10Km Classic Val di Fiemne]",
+		"cname": "10km-classic-val-di-fiemne",
+		"keyword_type_cname": "league",
+		"externalid": "44387"
+	},
+	{
+		"id": "19323",
+		"name": "[10Km C Mass Start Falun]",
+		"cname": "10km-c-mass-start-falun",
+		"keyword_type_cname": "league",
+		"externalid": "22790"
+	},
+	{
+		"id": "30238",
+		"name": "[10Km C Mass Start La Clusac]",
+		"cname": "10km-c-mass-start-la-clusac",
+		"keyword_type_cname": "league",
+		"externalid": "33863"
+	},
+	{
+		"id": "30354",
+		"name": "[10Km C Mass Start La Clusaz]",
+		"cname": "10km-c-mass-start-la-clusaz",
+		"keyword_type_cname": "league",
+		"externalid": "33979"
+	},
+	{
+		"id": "13888",
+		"name": "[10 Km C Mass start Rogla]",
+		"cname": "10-km-c-mass-start-rogla",
+		"keyword_type_cname": "league",
+		"externalid": "17295"
+	},
+	{
+		"id": "14547",
+		"name": "[10km-C-Mass-Start-Val-Di-Fiemme]",
+		"cname": "10km-c-mass-start-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "17954"
+	},
+	{
+		"id": "15284",
+		"name": "[10km-C-Otepaa]",
+		"cname": "10km-c-otepaa",
+		"keyword_type_cname": "league",
+		"externalid": "18691"
+	},
+	{
+		"id": "16025",
+		"name": "[10KM-C-szklarska-poreba",
+		"cname": "10km-c-szklarska-poreba",
+		"keyword_type_cname": "league",
+		"externalid": "19432"
+	},
+	{
+		"id": "54191",
+		"name": "[10km Davos]",
+		"cname": "10km-davos",
+		"keyword_type_cname": "league",
+		"externalid": "57816"
+	},
+	{
+		"id": "19376",
+		"name": "[10KM F Pursuit Falun]",
+		"cname": "10km-f-pursuit-falun",
+		"keyword_type_cname": "league",
+		"externalid": "22846"
+	},
+	{
+		"id": "125983",
+		"name": "[10km] [Freestyle]",
+		"cname": "10km-freestyle",
+		"keyword_type_cname": "league",
+		"externalid": "129608"
+	},
+	{
+		"id": "122156",
+		"name": "[10KM Freestyle Davos]",
+		"cname": "10km-freestyle-davos",
+		"keyword_type_cname": "league",
+		"externalid": "125781"
+	},
+	{
+		"id": "56720",
+		"name": "[10 km Freestyle] [Falun]",
+		"cname": "10-km-freestyle-falun",
+		"keyword_type_cname": "league",
+		"externalid": "60345"
+	},
+	{
+		"id": "167034",
+		"name": "[10km] [Freestyle] [Falun]",
+		"cname": "10km-freestyle-falun",
+		"keyword_type_cname": "league",
+		"externalid": "371038"
+	},
+	{
+		"id": "31243",
+		"name": "[10 Km Freestyle Handicap Start Falun]",
+		"cname": "10-km-freestyle-handicap-start-falun",
+		"keyword_type_cname": "league",
+		"externalid": "34868"
+	},
+	{
+		"id": "167035",
+		"name": "[10km] [Freestyle] [Lenzerheide]",
+		"cname": "10km-freestyle-lenzerheide",
+		"keyword_type_cname": "league",
+		"externalid": "371039"
+	},
+	{
+		"id": "241185",
+		"name": "[10km] [Freestyle] [Les Rousses]",
+		"cname": "10km-freestyle-les-rousses",
+		"keyword_type_cname": "league",
+		"externalid": "427808"
+	},
+	{
+		"id": "241186",
+		"name": "[10km] [Freestyle] [Les Rousses] [Men]",
+		"cname": "10km-freestyle-les-rousses-men",
+		"keyword_type_cname": "league",
+		"externalid": "427809"
+	},
+	{
+		"id": "241187",
+		"name": "[10km] [Freestyle] [Les Rousses] [Women]",
+		"cname": "10km-freestyle-les-rousses-women",
+		"keyword_type_cname": "league",
+		"externalid": "427810"
+	},
+	{
+		"id": "54007",
+		"name": "[10km Freestyle] [Lillehammer]",
+		"cname": "10km-freestyle-lillehammer",
+		"keyword_type_cname": "league",
+		"externalid": "57632"
+	},
+	{
+		"id": "78399",
+		"name": "[10km Freestyle Mass Start Falun]",
+		"cname": "10km-freestyle-mass-start-falun",
+		"keyword_type_cname": "league",
+		"externalid": "82024"
+	},
+	{
+		"id": "123678",
+		"name": "[10km] [Freestyle] [Mass Start] [Oberstdorf]",
+		"cname": "10km-freestyle-mass-start-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "127303"
+	},
+	{
+		"id": "125310",
+		"name": "[10km] [Freestyle] [Mass Start] [Seefeld]",
+		"cname": "10km-freestyle-mass-start-seefeld",
+		"keyword_type_cname": "league",
+		"externalid": "128935"
+	},
+	{
+		"id": "167036",
+		"name": "[10km] [Freestyle] [Mass Start] [Val Di Fiemme]",
+		"cname": "10km-freestyle-mass-start-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "371040"
+	},
+	{
+		"id": "77258",
+		"name": "[10km] [Freestyle] [Nove Mesto]",
+		"cname": "10km-freestyle-nove-mesto",
+		"keyword_type_cname": "league",
+		"externalid": "80883"
+	},
+	{
+		"id": "167037",
+		"name": "[10km] [Freestyle] [Ostersund]",
+		"cname": "10km-freestyle-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "371041"
+	},
+	{
+		"id": "123489",
+		"name": "[10km Freestyle Pursuit Lenzerheide]",
+		"cname": "10km-freestyle-pursuit-lenzerheide",
+		"keyword_type_cname": "league",
+		"externalid": "127114"
+	},
+	{
+		"id": "137588",
+		"name": "[10km] [Freestyle] [Pursuit] [Oberstdorf]",
+		"cname": "10km-freestyle-pursuit-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "141213"
+	},
+	{
+		"id": "120905",
+		"name": "[10km] [Freestyle] [Pursuit] [Ruka]",
+		"cname": "10km-freestyle-pursuit-ruka",
+		"keyword_type_cname": "league",
+		"externalid": "124530"
+	},
+	{
+		"id": "211947",
+		"name": "[10km] [Freestyle] [Pursuit] [Val Mustair] [Women]",
+		"cname": "10km-freestyle-pursuit-val-mustair-women",
+		"keyword_type_cname": "league",
+		"externalid": "416082"
+	},
+	{
+		"id": "74346",
+		"name": "[10km] [Freestyle] [Ruka]",
+		"cname": "10km-freestyle-ruka",
+		"keyword_type_cname": "league",
+		"externalid": "77971"
+	},
+	{
+		"id": "125110",
+		"name": "[10km] [Freestyle] [Seefeld]",
+		"cname": "10km-freestyle-seefeld",
+		"keyword_type_cname": "league",
+		"externalid": "128735"
+	},
+	{
+		"id": "76458",
+		"name": "[10km] [Freestyle] [Toblach]",
+		"cname": "10km-freestyle-toblach",
+		"keyword_type_cname": "league",
+		"externalid": "80083"
+	},
+	{
+		"id": "99511",
+		"name": "[10km Freestyle Ulricehamn]",
+		"cname": "10km-freestyle-ulricehamn",
+		"keyword_type_cname": "league",
+		"externalid": "103136"
+	},
+	{
+		"id": "241188",
+		"name": "[10km] [Freestyle] [Women]",
+		"cname": "10km-freestyle-women",
+		"keyword_type_cname": "league",
+		"externalid": "427811"
+	},
+	{
+		"id": "29447",
+		"name": "[10 Km Hochfilzen]",
+		"cname": "10-km-hochfilzen",
+		"keyword_type_cname": "league",
+		"externalid": "33072"
+	},
+	{
+		"id": "128453",
+		"name": "[10km] [Mass Start] [Classic] [Falun]",
+		"cname": "10km-mass-start-classic-falun",
+		"keyword_type_cname": "league",
+		"externalid": "132078"
+	},
+	{
+		"id": "137589",
+		"name": "[10km] [Mass Start] [Classic] [Oberstdorf]",
+		"cname": "10km-mass-start-classic-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "141214"
+	},
+	{
+		"id": "102625",
+		"name": "[10km] [Mass Start] [Classic] [Quebec City]",
+		"cname": "10km-mass-start-classic-quebec-city",
+		"keyword_type_cname": "league",
+		"externalid": "106250"
+	},
+	{
+		"id": "98809",
+		"name": "[10km Mass Start Classic Val Di Fiemme]",
+		"cname": "10km-mass-start-classic-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "102434"
+	},
+	{
+		"id": "78397",
+		"name": "[10Km Mass Start Falun]",
+		"cname": "10km-mass-start-falun",
+		"keyword_type_cname": "league",
+		"externalid": "82022"
+	},
+	{
+		"id": "97934",
+		"name": "[10km] [Mass Start] [Freestyle] [La Clusaz]",
+		"cname": "10km-mass-start-freestyle-la-clusaz",
+		"keyword_type_cname": "league",
+		"externalid": "101559"
+	},
+	{
+		"id": "15519",
+		"name": "[10KM Mass Start F Rybinsk]",
+		"cname": "10km-mass-start-f-rybinsk",
+		"keyword_type_cname": "league",
+		"externalid": "18926"
+	},
+	{
+		"id": "97932",
+		"name": "[10km Mass Start La Clusaz]",
+		"cname": "10km-mass-start-la-clusaz",
+		"keyword_type_cname": "league",
+		"externalid": "101557"
+	},
+	{
+		"id": "76362",
+		"name": "[10km Mass-Start Oberstdorf]",
+		"cname": "10km-mass-start-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "79987"
+	},
+	{
+		"id": "125307",
+		"name": "[10km] [Mass Start] [Seefeld]",
+		"cname": "10km-mass-start-seefeld",
+		"keyword_type_cname": "league",
+		"externalid": "128932"
+	},
+	{
+		"id": "55061",
+		"name": "[10km Mass Start Val Di Fiemme]",
+		"cname": "10km-mass-start-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "58686"
+	},
+	{
+		"id": "56369",
+		"name": "[10km Oestersund]",
+		"cname": "10km-oestersund",
+		"keyword_type_cname": "league",
+		"externalid": "59994"
+	},
+	{
+		"id": "29427",
+		"name": "[10 Km Ostersund]",
+		"cname": "10-km-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "33052"
+	},
+	{
+		"id": "29560",
+		"name": "[10 Km Pokljuka]",
+		"cname": "10-km-pokljuka",
+		"keyword_type_cname": "league",
+		"externalid": "33185"
+	},
+	{
+		"id": "125217",
+		"name": "[10km] [Pursuit]",
+		"cname": "10km-pursuit",
+		"keyword_type_cname": "league",
+		"externalid": "128842"
+	},
+	{
+		"id": "122443",
+		"name": "[10KM Pursuit Annecy]",
+		"cname": "10km-pursuit-annecy",
+		"keyword_type_cname": "league",
+		"externalid": "126068"
+	},
+	{
+		"id": "40307",
+		"name": "[10km Pursuit Annecy Le Grand Bornard]",
+		"cname": "10km-pursuit-annecy-le-grand-bornard",
+		"keyword_type_cname": "league",
+		"externalid": "43932"
+	},
+	{
+		"id": "124804",
+		"name": "[10km] [Pursuit] [Anterselva]",
+		"cname": "10km-pursuit-anterselva",
+		"keyword_type_cname": "league",
+		"externalid": "128429"
+	},
+	{
+		"id": "30257",
+		"name": "[10Km] [Pursuit] [Antholz]",
+		"cname": "10km-pursuit-antholz",
+		"keyword_type_cname": "league",
+		"externalid": "33882"
+	},
+	{
+		"id": "122451",
+		"name": "[10KM Pursuit Classic Toblach]",
+		"cname": "10km-pursuit-classic-toblach",
+		"keyword_type_cname": "league",
+		"externalid": "126076"
+	},
+	{
+		"id": "43620",
+		"name": "[10km Pursuit Falun]",
+		"cname": "10km-pursuit-falun",
+		"keyword_type_cname": "league",
+		"externalid": "47245"
+	},
+	{
+		"id": "128522",
+		"name": "[10km] [Pursuit] [Freestyle] [Falun]",
+		"cname": "10km-pursuit-freestyle-falun",
+		"keyword_type_cname": "league",
+		"externalid": "132147"
+	},
+	{
+		"id": "102626",
+		"name": "[10km] [Pursuit] [Freestyle] [Quebec City]",
+		"cname": "10km-pursuit-freestyle-quebec-city",
+		"keyword_type_cname": "league",
+		"externalid": "106251"
+	},
+	{
+		"id": "40104",
+		"name": "[10km] [Pursuit] [Hochfilzen]",
+		"cname": "10km-pursuit-hochfilzen",
+		"keyword_type_cname": "league",
+		"externalid": "43729"
+	},
+	{
+		"id": "30930",
+		"name": "[10 Km Pursuit Holmenkollen]",
+		"cname": "10-km-pursuit-holmenkollen",
+		"keyword_type_cname": "league",
+		"externalid": "34555"
+	},
+	{
+		"id": "31101",
+		"name": "[10 Km Pursuit Khanty Mansiysk]",
+		"cname": "10-km-pursuit-khanty-mansiysk",
+		"keyword_type_cname": "league",
+		"externalid": "34726"
+	},
+	{
+		"id": "57505",
+		"name": "[10 Km] [Pursuit] [Kontiolahti]",
+		"cname": "10-km-pursuit-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "61130"
+	},
+	{
+		"id": "167038",
+		"name": "[10km] [Pursuit] [Kontiolahti]",
+		"cname": "10km-pursuit-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "371042"
+	},
+	{
+		"id": "39898",
+		"name": "[10km Pursuit Kuusamo]",
+		"cname": "10km-pursuit-kuusamo",
+		"keyword_type_cname": "league",
+		"externalid": "43523"
+	},
+	{
+		"id": "167039",
+		"name": "[10km] [Pursuit] [Le Grand Bornand]",
+		"cname": "10km-pursuit-le-grand-bornand",
+		"keyword_type_cname": "league",
+		"externalid": "371043"
+	},
+	{
+		"id": "76205",
+		"name": "[10km Pursuit Lenzerheide]",
+		"cname": "10km-pursuit-lenzerheide",
+		"keyword_type_cname": "league",
+		"externalid": "79830"
+	},
+	{
+		"id": "54025",
+		"name": "[10km Pursuit Lillehammer]",
+		"cname": "10km-pursuit-lillehammer",
+		"keyword_type_cname": "league",
+		"externalid": "57650"
+	},
+	{
+		"id": "98014",
+		"name": "[10km] [Pursuit] [Nove Mesto]",
+		"cname": "10km-pursuit-nove-mesto",
+		"keyword_type_cname": "league",
+		"externalid": "101639"
+	},
+	{
+		"id": "14267",
+		"name": "[10km Pursuit Oberhof]",
+		"cname": "10km-pursuit-oberhof",
+		"keyword_type_cname": "league",
+		"externalid": "17674"
+	},
+	{
+		"id": "54668",
+		"name": "[10km] [Pursuit] [Oberstdorf]",
+		"cname": "10km-pursuit-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "58293"
+	},
+	{
+		"id": "102657",
+		"name": "[10km] [Pursuit] [Oslo]",
+		"cname": "10km-pursuit-oslo",
+		"keyword_type_cname": "league",
+		"externalid": "106282"
+	},
+	{
+		"id": "39896",
+		"name": "[10km Pursuit Ostersund]",
+		"cname": "10km-pursuit-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "43521"
+	},
+	{
+		"id": "75566",
+		"name": "[10km] [Pursuit] [Pokljuka]",
+		"cname": "10km-pursuit-pokljuka",
+		"keyword_type_cname": "league",
+		"externalid": "79191"
+	},
+	{
+		"id": "78347",
+		"name": "[10km Pursuit Presque Island]",
+		"cname": "10km-pursuit-presque-island",
+		"keyword_type_cname": "league",
+		"externalid": "81972"
+	},
+	{
+		"id": "101738",
+		"name": "[10km] [Pursuit] [PyeongChang]",
+		"cname": "10km-pursuit-pyeongchang",
+		"keyword_type_cname": "league",
+		"externalid": "105363"
+	},
+	{
+		"id": "76513",
+		"name": "[10km Pursuit Ruhpolding]",
+		"cname": "10km-pursuit-ruhpolding",
+		"keyword_type_cname": "league",
+		"externalid": "80138"
+	},
+	{
+		"id": "167040",
+		"name": "[10km] [Pursuit] [Soldier Hollow]",
+		"cname": "10km-pursuit-soldier-hollow",
+		"keyword_type_cname": "league",
+		"externalid": "371044"
+	},
+	{
+		"id": "128927",
+		"name": "[10km Pursuit] [Tyumen]",
+		"cname": "10km-pursuit-tyumen",
+		"keyword_type_cname": "league",
+		"externalid": "132552"
+	},
+	{
+		"id": "55052",
+		"name": "[10km Pursuit Val Di Fiemme]",
+		"cname": "10km-pursuit-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "58677"
+	},
+	{
+		"id": "55498",
+		"name": "[10km] [Rybinsk]",
+		"cname": "10km-rybinsk",
+		"keyword_type_cname": "league",
+		"externalid": "59123"
+	},
+	{
+		"id": "98590",
+		"name": "[10km] [Skiathlon] [Oberstdorf]",
+		"cname": "10km-skiathlon-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "102215"
+	},
+	{
+		"id": "40037",
+		"name": "[10 Km Sprint]",
+		"cname": "10-km-sprint",
+		"keyword_type_cname": "league",
+		"externalid": "43662"
+	},
+	{
+		"id": "41471",
+		"name": "[10km] [Sprint]",
+		"cname": "10km-sprint",
+		"keyword_type_cname": "league",
+		"externalid": "45096"
+	},
+	{
+		"id": "122442",
+		"name": "[10km Sprint Annecy]",
+		"cname": "10km-sprint-annecy",
+		"keyword_type_cname": "league",
+		"externalid": "126067"
+	},
+	{
+		"id": "124510",
+		"name": "[10km Sprint Anterselva]",
+		"cname": "10km-sprint-anterselva",
+		"keyword_type_cname": "league",
+		"externalid": "128135"
+	},
+	{
+		"id": "55464",
+		"name": "[10km] [Sprint] [Antholz]",
+		"cname": "10km-sprint-antholz",
+		"keyword_type_cname": "league",
+		"externalid": "59089"
+	},
+	{
+		"id": "30194",
+		"name": "[10km Sprint Antholz Anterselva]",
+		"cname": "10km-sprint-antholz-anterselva",
+		"keyword_type_cname": "league",
+		"externalid": "33819"
+	},
+	{
+		"id": "77928",
+		"name": "[10km Sprint Canmore]",
+		"cname": "10km-sprint-canmore",
+		"keyword_type_cname": "league",
+		"externalid": "81553"
+	},
+	{
+		"id": "75298",
+		"name": "[10km] [Sprint] [Hochfilzen]",
+		"cname": "10km-sprint-hochfilzen",
+		"keyword_type_cname": "league",
+		"externalid": "78923"
+	},
+	{
+		"id": "56310",
+		"name": "[10 Km Sprint Holmenkollen]",
+		"cname": "10-km-sprint-holmenkollen",
+		"keyword_type_cname": "league",
+		"externalid": "59935"
+	},
+	{
+		"id": "31102",
+		"name": "[10 Km] [Sprint] [Khanty Mansiysk]",
+		"cname": "10-km-sprint-khanty-mansiysk",
+		"keyword_type_cname": "league",
+		"externalid": "34727"
+	},
+	{
+		"id": "57102",
+		"name": "[10 Km] [Sprint] [Kontiolahti]",
+		"cname": "10-km-sprint-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "60727"
+	},
+	{
+		"id": "167041",
+		"name": "[10km] [Sprint] [Kontiolahti]",
+		"cname": "10km-sprint-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "371045"
+	},
+	{
+		"id": "167042",
+		"name": "[10km] [Sprint] [Le Grand Bornand]",
+		"cname": "10km-sprint-le-grand-bornand",
+		"keyword_type_cname": "league",
+		"externalid": "371046"
+	},
+	{
+		"id": "30537",
+		"name": "[10 Km Sprint Nove Mesto]",
+		"cname": "10-km-sprint-nove-mesto",
+		"keyword_type_cname": "league",
+		"externalid": "34162"
+	},
+	{
+		"id": "97812",
+		"name": "[10km] [Sprint] [Nove Mesto]",
+		"cname": "10km-sprint-nove-mesto",
+		"keyword_type_cname": "league",
+		"externalid": "101437"
+	},
+	{
+		"id": "55022",
+		"name": "[10km] [Sprint] [Oberhof]",
+		"cname": "10km-sprint-oberhof",
+		"keyword_type_cname": "league",
+		"externalid": "58647"
+	},
+	{
+		"id": "74781",
+		"name": "[10km] [Sprint] [Oestersund]",
+		"cname": "10km-sprint-oestersund",
+		"keyword_type_cname": "league",
+		"externalid": "78406"
+	},
+	{
+		"id": "30899",
+		"name": "[10Km Sprint Oslo]",
+		"cname": "10km-sprint-oslo",
+		"keyword_type_cname": "league",
+		"externalid": "34524"
+	},
+	{
+		"id": "56209",
+		"name": "[10km] [Sprint] [Oslo Holmenkollen]",
+		"cname": "10km-sprint-oslo-holmenkollen",
+		"keyword_type_cname": "league",
+		"externalid": "59834"
+	},
+	{
+		"id": "39875",
+		"name": "[10Km Sprint Ostersund]",
+		"cname": "10km-sprint-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "43500"
+	},
+	{
+		"id": "241189",
+		"name": "[10km] [Sprint] [Otepaa]",
+		"cname": "10km-sprint-otepaa",
+		"keyword_type_cname": "league",
+		"externalid": "427812"
+	},
+	{
+		"id": "75570",
+		"name": "[10km] [Sprint] [Pokljuka]",
+		"cname": "10km-sprint-pokljuka",
+		"keyword_type_cname": "league",
+		"externalid": "79195"
+	},
+	{
+		"id": "78248",
+		"name": "[10 KM Sprint Presque Isle]",
+		"cname": "10-km-sprint-presque-isle",
+		"keyword_type_cname": "league",
+		"externalid": "81873"
+	},
+	{
+		"id": "101572",
+		"name": "[10km] [Sprint] [PyeongChang]",
+		"cname": "10km-sprint-pyeongchang",
+		"keyword_type_cname": "league",
+		"externalid": "105197"
+	},
+	{
+		"id": "29986",
+		"name": "[10 Km Sprint Ruhpolding]",
+		"cname": "10-km-sprint-ruhpolding",
+		"keyword_type_cname": "league",
+		"externalid": "33611"
+	},
+	{
+		"id": "55294",
+		"name": "[10km] [Sprint] [Ruhpolding]",
+		"cname": "10km-sprint-ruhpolding",
+		"keyword_type_cname": "league",
+		"externalid": "58919"
+	},
+	{
+		"id": "31043",
+		"name": "[10km Sprint Sochi]",
+		"cname": "10km-sprint-sochi",
+		"keyword_type_cname": "league",
+		"externalid": "34668"
+	},
+	{
+		"id": "167043",
+		"name": "[10km] [Sprint] [Soldier Hollow]",
+		"cname": "10km-sprint-soldier-hollow",
+		"keyword_type_cname": "league",
+		"externalid": "371047"
+	},
+	{
+		"id": "128618",
+		"name": "[10km Sprint Tyumen]",
+		"cname": "10km-sprint-tyumen",
+		"keyword_type_cname": "league",
+		"externalid": "132243"
+	},
+	{
+		"id": "54844",
+		"name": "[10km Toblach]",
+		"cname": "10km-toblach",
+		"keyword_type_cname": "league",
+		"externalid": "58469"
+	},
+	{
+		"id": "89847",
+		"name": "[10m Platform]",
+		"cname": "10m-platform",
+		"keyword_type_cname": "league",
+		"externalid": "93472"
+	},
+	{
+		"id": "42486",
+		"name": "[10x4Km Relay]",
+		"cname": "10x4km-relay",
+		"keyword_type_cname": "league",
+		"externalid": "46111"
+	},
+	{
+		"id": "137590",
+		"name": "[12,5km] [Individual] [Canmore]",
+		"cname": "12-5km-individual-canmore",
+		"keyword_type_cname": "league",
+		"externalid": "141215"
+	},
+	{
+		"id": "126573",
+		"name": "[12,5km Mass Start]",
+		"cname": "12-5km-mass-start",
+		"keyword_type_cname": "league",
+		"externalid": "130198"
+	},
+	{
+		"id": "122765",
+		"name": "[12,5km Mass Start Annecy]",
+		"cname": "12-5km-mass-start-annecy",
+		"keyword_type_cname": "league",
+		"externalid": "126390"
+	},
+	{
+		"id": "124872",
+		"name": "[12,5km] [Mass Start] [Anterselva]",
+		"cname": "12-5km-mass-start-anterselva",
+		"keyword_type_cname": "league",
+		"externalid": "128497"
+	},
+	{
+		"id": "99524",
+		"name": "[12,5km Mass Start Antholz]",
+		"cname": "12-5km-mass-start-antholz",
+		"keyword_type_cname": "league",
+		"externalid": "103149"
+	},
+	{
+		"id": "77974",
+		"name": "[12,5km Mass Start Canmore]",
+		"cname": "12-5km-mass-start-canmore",
+		"keyword_type_cname": "league",
+		"externalid": "81599"
+	},
+	{
+		"id": "211948",
+		"name": "[12,5km] [Mass Start] [Hochfilzen]",
+		"cname": "12-5km-mass-start-hochfilzen",
+		"keyword_type_cname": "league",
+		"externalid": "416083"
+	},
+	{
+		"id": "30943",
+		"name": "[12,5 Km Mass Start Holmenkollen]",
+		"cname": "12-5-km-mass-start-holmenkollen",
+		"keyword_type_cname": "league",
+		"externalid": "34568"
+	},
+	{
+		"id": "31104",
+		"name": "[12,5 Km Mass Start Khanty Mansiysk]",
+		"cname": "12-5-km-mass-start-khanty-mansiysk",
+		"keyword_type_cname": "league",
+		"externalid": "34729"
+	},
+	{
+		"id": "57921",
+		"name": "[12.5 Km] [Mass Start] [Kontiolahti]",
+		"cname": "12-5-km-mass-start-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "61546"
+	},
+	{
+		"id": "128002",
+		"name": "[12,5km Mass Start Kontiolahti]",
+		"cname": "12-5km-mass-start-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "131627"
+	},
+	{
+		"id": "167044",
+		"name": "[12,5km] [Mass Start] [Le Grand Bornand]",
+		"cname": "12-5km-mass-start-le-grand-bornand",
+		"keyword_type_cname": "league",
+		"externalid": "371048"
+	},
+	{
+		"id": "30661",
+		"name": "[12.5 km] [Mass Start] [Nove Mesto]",
+		"cname": "12-5-km-mass-start-nove-mesto",
+		"keyword_type_cname": "league",
+		"externalid": "34286"
+	},
+	{
+		"id": "40793",
+		"name": "[12.5km] [Mass Start] [Oberhof]",
+		"cname": "12-5km-mass-start-oberhof",
+		"keyword_type_cname": "league",
+		"externalid": "44418"
+	},
+	{
+		"id": "102676",
+		"name": "[12.5km] [Mass Start] [Oslo]",
+		"cname": "12-5km-mass-start-oslo",
+		"keyword_type_cname": "league",
+		"externalid": "106301"
+	},
+	{
+		"id": "241190",
+		"name": "[12,5km] [Mass Start] [Ostersund]",
+		"cname": "12-5km-mass-start-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "427813"
+	},
+	{
+		"id": "241191",
+		"name": "[12,5km] [Mass Start] [Otepaa]",
+		"cname": "12-5km-mass-start-otepaa",
+		"keyword_type_cname": "league",
+		"externalid": "427814"
+	},
+	{
+		"id": "75568",
+		"name": "[12.5km] [Mass Start] [Pokljuka]",
+		"cname": "12-5km-mass-start-pokljuka",
+		"keyword_type_cname": "league",
+		"externalid": "79193"
+	},
+	{
+		"id": "30138",
+		"name": "[12,5 km] [Mass Start] [Ruhpolding]",
+		"cname": "12-5-km-mass-start-ruhpolding",
+		"keyword_type_cname": "league",
+		"externalid": "33763"
+	},
+	{
+		"id": "76553",
+		"name": "[12,5km Mass Start Ruhpolding]",
+		"cname": "12-5km-mass-start-ruhpolding",
+		"keyword_type_cname": "league",
+		"externalid": "80178"
+	},
+	{
+		"id": "129107",
+		"name": "[12,5km] [Mass Start] [Tyumen]",
+		"cname": "12-5km-mass-start-tyumen",
+		"keyword_type_cname": "league",
+		"externalid": "132732"
+	},
+	{
+		"id": "122445",
+		"name": "[12.5KM Masstart Annecy]",
+		"cname": "12-5km-masstart-annecy",
+		"keyword_type_cname": "league",
+		"externalid": "126070"
+	},
+	{
+		"id": "99523",
+		"name": "[12,5km Masstart Antholz]",
+		"cname": "12-5km-masstart-antholz",
+		"keyword_type_cname": "league",
+		"externalid": "103148"
+	},
+	{
+		"id": "125213",
+		"name": "[12,5km] [Pursuit]",
+		"cname": "12-5km-pursuit",
+		"keyword_type_cname": "league",
+		"externalid": "128838"
+	},
+	{
+		"id": "122444",
+		"name": "[12.5KM Pursuit Annecy]",
+		"cname": "12-5km-pursuit-annecy",
+		"keyword_type_cname": "league",
+		"externalid": "126069"
+	},
+	{
+		"id": "40306",
+		"name": "[12.5km Pursuit Annecy Le Grand Bornard]",
+		"cname": "12-5km-pursuit-annecy-le-grand-bornard",
+		"keyword_type_cname": "league",
+		"externalid": "43931"
+	},
+	{
+		"id": "124805",
+		"name": "[12,5km] [Pursuit] [Anterselva]",
+		"cname": "12-5km-pursuit-anterselva",
+		"keyword_type_cname": "league",
+		"externalid": "128430"
+	},
+	{
+		"id": "30258",
+		"name": "[12,5Km] [Pursuit] [Antholz]",
+		"cname": "12-5km-pursuit-antholz",
+		"keyword_type_cname": "league",
+		"externalid": "33883"
+	},
+	{
+		"id": "40103",
+		"name": "[12.5km] [Pursuit] [Hochfilzen]",
+		"cname": "12-5km-pursuit-hochfilzen",
+		"keyword_type_cname": "league",
+		"externalid": "43728"
+	},
+	{
+		"id": "30931",
+		"name": "[12,5 Km Pursuit Holmenkollen]",
+		"cname": "12-5-km-pursuit-holmenkollen",
+		"keyword_type_cname": "league",
+		"externalid": "34556"
+	},
+	{
+		"id": "80215",
+		"name": "[12,5km Pursuit Khanty Mansiysk]",
+		"cname": "12-5km-pursuit-khanty-mansiysk",
+		"keyword_type_cname": "league",
+		"externalid": "83840"
+	},
+	{
+		"id": "57504",
+		"name": "[12.5 Km] [Pursuit] [Kontiolahti]",
+		"cname": "12-5-km-pursuit-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "61129"
+	},
+	{
+		"id": "167045",
+		"name": "[12,5km] [Pursuit] [Kontiolahti]",
+		"cname": "12-5km-pursuit-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "371049"
+	},
+	{
+		"id": "167046",
+		"name": "[12,5km] [Pursuit] [Le Grand Bornand]",
+		"cname": "12-5km-pursuit-le-grand-bornand",
+		"keyword_type_cname": "league",
+		"externalid": "371050"
+	},
+	{
+		"id": "137591",
+		"name": "[12.5 km] [Pursuit] [Nove Mesto]",
+		"cname": "12-5-km-pursuit-nove-mesto",
+		"keyword_type_cname": "league",
+		"externalid": "141216"
+	},
+	{
+		"id": "241192",
+		"name": "[12,5km] [Pursuit] [Nove Mesto]",
+		"cname": "12-5km-pursuit-nove-mesto",
+		"keyword_type_cname": "league",
+		"externalid": "427815"
+	},
+	{
+		"id": "98766",
+		"name": "[12,5km Pursuit Oberhof]",
+		"cname": "12-5km-pursuit-oberhof",
+		"keyword_type_cname": "league",
+		"externalid": "102391"
+	},
+	{
+		"id": "102658",
+		"name": "[12.5km] [Pursuit] [Oslo]",
+		"cname": "12-5km-pursuit-oslo",
+		"keyword_type_cname": "league",
+		"externalid": "106283"
+	},
+	{
+		"id": "39895",
+		"name": "[12.5km Pursuit Ostersund]",
+		"cname": "12-5km-pursuit-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "43520"
+	},
+	{
+		"id": "75567",
+		"name": "[12.5km] [Pursuit] [Pokljuka]",
+		"cname": "12-5km-pursuit-pokljuka",
+		"keyword_type_cname": "league",
+		"externalid": "79192"
+	},
+	{
+		"id": "78346",
+		"name": "[12,5km Pursuit Presque Island]",
+		"cname": "12-5km-pursuit-presque-island",
+		"keyword_type_cname": "league",
+		"externalid": "81971"
+	},
+	{
+		"id": "101758",
+		"name": "[12.5km] [Pursuit] [PyeongChang]",
+		"cname": "12-5km-pursuit-pyeongchang",
+		"keyword_type_cname": "league",
+		"externalid": "105383"
+	},
+	{
+		"id": "76512",
+		"name": "[12,5km] [Pursuit] [Ruhpolding]",
+		"cname": "12-5km-pursuit-ruhpolding",
+		"keyword_type_cname": "league",
+		"externalid": "80137"
+	},
+	{
+		"id": "167047",
+		"name": "[12,5km] [Pursuit] [Soldier Hollow]",
+		"cname": "12-5km-pursuit-soldier-hollow",
+		"keyword_type_cname": "league",
+		"externalid": "371051"
+	},
+	{
+		"id": "128928",
+		"name": "[12.5km Pursuit] [Tyumen]",
+		"cname": "12-5km-pursuit-tyumen",
+		"keyword_type_cname": "league",
+		"externalid": "132553"
+	},
+	{
+		"id": "123679",
+		"name": "[12km] [Freestyle] [Mass Start] [Oberstdorf]",
+		"cname": "12km-freestyle-mass-start-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "127304"
+	},
+	{
+		"id": "125212",
+		"name": "[12km Pursuit]",
+		"cname": "12km-pursuit",
+		"keyword_type_cname": "league",
+		"externalid": "128837"
+	},
+	{
+		"id": "74355",
+		"name": "[147 Specials]",
+		"cname": "147-specials",
+		"keyword_type_cname": "league",
+		"externalid": "77980"
+	},
+	{
+		"id": "241193",
+		"name": "[1500m]",
+		"cname": "1500m",
+		"keyword_type_cname": "league",
+		"externalid": "427816"
+	},
+	{
+		"id": "87042",
+		"name": "[15.10 Boost]",
+		"cname": "15-10-boost",
+		"keyword_type_cname": "league",
+		"externalid": "90667"
+	},
+	{
+		"id": "41894",
+		"name": "[15Km Classic]",
+		"cname": "15km-classic",
+		"keyword_type_cname": "league",
+		"externalid": "45519"
+	},
+	{
+		"id": "167048",
+		"name": "[15km] [Classic] [Cogne]",
+		"cname": "15km-classic-cogne",
+		"keyword_type_cname": "league",
+		"externalid": "371052"
+	},
+	{
+		"id": "57502",
+		"name": "[15km] [Classic] [Lahti]",
+		"cname": "15km-classic-lahti",
+		"keyword_type_cname": "league",
+		"externalid": "61127"
+	},
+	{
+		"id": "40689",
+		"name": "[15km Classic Lanzerheide]",
+		"cname": "15km-classic-lanzerheide",
+		"keyword_type_cname": "league",
+		"externalid": "44314"
+	},
+	{
+		"id": "123394",
+		"name": "[15km] [Classic] [Lenzerheide]",
+		"cname": "15km-classic-lenzerheide",
+		"keyword_type_cname": "league",
+		"externalid": "127019"
+	},
+	{
+		"id": "40078",
+		"name": "[15Km Classic Lillehammer]",
+		"cname": "15km-classic-lillehammer",
+		"keyword_type_cname": "league",
+		"externalid": "43703"
+	},
+	{
+		"id": "241194",
+		"name": "[15km] [Classic] [Mass Start] [Engadin]",
+		"cname": "15km-classic-mass-start-engadin",
+		"keyword_type_cname": "league",
+		"externalid": "427817"
+	},
+	{
+		"id": "99959",
+		"name": "[15km Classic Mass Start Falun]",
+		"cname": "15km-classic-mass-start-falun",
+		"keyword_type_cname": "league",
+		"externalid": "103584"
+	},
+	{
+		"id": "98819",
+		"name": "[15km Classic Mass Start Val Di Fiemme]",
+		"cname": "15km-classic-mass-start-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "102444"
+	},
+	{
+		"id": "211949",
+		"name": "[15km] [Classic] [Mass Start] [Val Mustair]",
+		"cname": "15km-classic-mass-start-val-mustair",
+		"keyword_type_cname": "league",
+		"externalid": "416084"
+	},
+	{
+		"id": "101097",
+		"name": "[15km Classic Otepaa]",
+		"cname": "15km-classic-otepaa",
+		"keyword_type_cname": "league",
+		"externalid": "104722"
+	},
+	{
+		"id": "124580",
+		"name": "[15km] [Classic] [Planica]",
+		"cname": "15km-classic-planica",
+		"keyword_type_cname": "league",
+		"externalid": "128205"
+	},
+	{
+		"id": "211730",
+		"name": "[15km] [Classic] [Pursuit]",
+		"cname": "15km-classic-pursuit",
+		"keyword_type_cname": "league",
+		"externalid": "415865"
+	},
+	{
+		"id": "137592",
+		"name": "[15km] [Classic] [Pursuit] [Lillehammer]",
+		"cname": "15km-classic-pursuit-lillehammer",
+		"keyword_type_cname": "league",
+		"externalid": "141217"
+	},
+	{
+		"id": "167049",
+		"name": "[15km] [Classic] [Pursuit] [Nove Mesto]",
+		"cname": "15km-classic-pursuit-nove-mesto",
+		"keyword_type_cname": "league",
+		"externalid": "371053"
+	},
+	{
+		"id": "167050",
+		"name": "[15km] [Classic] [Pursuit] [Ostersund]",
+		"cname": "15km-classic-pursuit-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "371054"
+	},
+	{
+		"id": "74420",
+		"name": "[15km] [Classic] [Pursuit] [Ruka]",
+		"cname": "15km-classic-pursuit-ruka",
+		"keyword_type_cname": "league",
+		"externalid": "78045"
+	},
+	{
+		"id": "122760",
+		"name": "[15km Classic Pursuit Toblach]",
+		"cname": "15km-classic-pursuit-toblach",
+		"keyword_type_cname": "league",
+		"externalid": "126385"
+	},
+	{
+		"id": "167051",
+		"name": "[15km] [Classic] [Pursuit] [Trondheim]",
+		"cname": "15km-classic-pursuit-trondheim",
+		"keyword_type_cname": "league",
+		"externalid": "371055"
+	},
+	{
+		"id": "53718",
+		"name": "[15km Classic Ruka]",
+		"cname": "15km-classic-ruka",
+		"keyword_type_cname": "league",
+		"externalid": "57343"
+	},
+	{
+		"id": "41363",
+		"name": "[15Km Classic Szklarska Poreba]",
+		"cname": "15km-classic-szklarska-poreba",
+		"keyword_type_cname": "league",
+		"externalid": "44988"
+	},
+	{
+		"id": "41727",
+		"name": "[15km] [Classic] [Toblach]",
+		"cname": "15km-classic-toblach",
+		"keyword_type_cname": "league",
+		"externalid": "45352"
+	},
+	{
+		"id": "13883",
+		"name": "[15 Km C Masart Rogla]",
+		"cname": "15-km-c-masart-rogla",
+		"keyword_type_cname": "league",
+		"externalid": "17290"
+	},
+	{
+		"id": "19322",
+		"name": "[15Km C Mass Start Falun]",
+		"cname": "15km-c-mass-start-falun",
+		"keyword_type_cname": "league",
+		"externalid": "22789"
+	},
+	{
+		"id": "13884",
+		"name": "[15 km C Mass start Rogla]",
+		"cname": "15-km-c-mass-start-rogla",
+		"keyword_type_cname": "league",
+		"externalid": "17291"
+	},
+	{
+		"id": "15286",
+		"name": "[15Km C Otepaa]",
+		"cname": "15km-c-otepaa",
+		"keyword_type_cname": "league",
+		"externalid": "18693"
+	},
+	{
+		"id": "16009",
+		"name": "[15KM-C-Szklarska-Poreba]",
+		"cname": "15km-c-szklarska-poreba",
+		"keyword_type_cname": "league",
+		"externalid": "19416"
+	},
+	{
+		"id": "54190",
+		"name": "[15km Davos]",
+		"cname": "15km-davos",
+		"keyword_type_cname": "league",
+		"externalid": "57815"
+	},
+	{
+		"id": "19375",
+		"name": "[15KM F Pursuit Falun]",
+		"cname": "15km-f-pursuit-falun",
+		"keyword_type_cname": "league",
+		"externalid": "22845"
+	},
+	{
+		"id": "40274",
+		"name": "[15Km Free Davos]",
+		"cname": "15km-free-davos",
+		"keyword_type_cname": "league",
+		"externalid": "43899"
+	},
+	{
+		"id": "125984",
+		"name": "[15km] [Freestyle]",
+		"cname": "15km-freestyle",
+		"keyword_type_cname": "league",
+		"externalid": "129609"
+	},
+	{
+		"id": "73596",
+		"name": "[15km Freestyle Beitostolen]",
+		"cname": "15km-freestyle-beitostolen",
+		"keyword_type_cname": "league",
+		"externalid": "77221"
+	},
+	{
+		"id": "30662",
+		"name": "[15 km] [Freestyle] [Davos]",
+		"cname": "15-km-freestyle-davos",
+		"keyword_type_cname": "league",
+		"externalid": "34287"
+	},
+	{
+		"id": "75315",
+		"name": "[15km] [Freestyle] [Davos]",
+		"cname": "15km-freestyle-davos",
+		"keyword_type_cname": "league",
+		"externalid": "78940"
+	},
+	{
+		"id": "56721",
+		"name": "[15 km Freestyle] [Falun]",
+		"cname": "15-km-freestyle-falun",
+		"keyword_type_cname": "league",
+		"externalid": "60346"
+	},
+	{
+		"id": "167280",
+		"name": "[15km] [Freestyle] [Falun]",
+		"cname": "15km-freestyle-falun",
+		"keyword_type_cname": "league",
+		"externalid": "371284"
+	},
+	{
+		"id": "31244",
+		"name": "[15 Km Freestyle Handicap Start Falun]",
+		"cname": "15-km-freestyle-handicap-start-falun",
+		"keyword_type_cname": "league",
+		"externalid": "34869"
+	},
+	{
+		"id": "167052",
+		"name": "[15km] [Freestyle] [Lenzerheide]",
+		"cname": "15km-freestyle-lenzerheide",
+		"keyword_type_cname": "league",
+		"externalid": "371056"
+	},
+	{
+		"id": "137593",
+		"name": "[15km Freestyle] [Lillehammer]",
+		"cname": "15km-freestyle-lillehammer",
+		"keyword_type_cname": "league",
+		"externalid": "141218"
+	},
+	{
+		"id": "78400",
+		"name": "[15km] [Freestyle] [Mass Start] [Falun]",
+		"cname": "15km-freestyle-mass-start-falun",
+		"keyword_type_cname": "league",
+		"externalid": "82025"
+	},
+	{
+		"id": "123677",
+		"name": "[15km] [Freestyle] [Mass Start] [Oberstdorf]",
+		"cname": "15km-freestyle-mass-start-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "127302"
+	},
+	{
+		"id": "125309",
+		"name": "[15km] [Freestyle] [Mass Start] [Seefeld]",
+		"cname": "15km-freestyle-mass-start-seefeld",
+		"keyword_type_cname": "league",
+		"externalid": "128934"
+	},
+	{
+		"id": "77257",
+		"name": "[15km] [Freestyle] [Nove Mesto]",
+		"cname": "15km-freestyle-nove-mesto",
+		"keyword_type_cname": "league",
+		"externalid": "80882"
+	},
+	{
+		"id": "167053",
+		"name": "[15km] [Freestyle] [Ostersund]",
+		"cname": "15km-freestyle-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "371057"
+	},
+	{
+		"id": "120907",
+		"name": "[15km] [Freestyle] [Pursuit]",
+		"cname": "15km-freestyle-pursuit",
+		"keyword_type_cname": "league",
+		"externalid": "124532"
+	},
+	{
+		"id": "123490",
+		"name": "[15km Freestyle Pursuit Lenzerheide]",
+		"cname": "15km-freestyle-pursuit-lenzerheide",
+		"keyword_type_cname": "league",
+		"externalid": "127115"
+	},
+	{
+		"id": "211950",
+		"name": "[15km] [Freestyle] [Pursuit] [MenMustair] [Women]",
+		"cname": "15km-freestyle-pursuit-menmustair-women",
+		"keyword_type_cname": "league",
+		"externalid": "416085"
+	},
+	{
+		"id": "137594",
+		"name": "[15km] [Freestyle] [Pursuit] [Oberstdorf]",
+		"cname": "15km-freestyle-pursuit-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "141219"
+	},
+	{
+		"id": "120908",
+		"name": "[15km] [Freestyle] [Pursuit] [Ruka]",
+		"cname": "15km-freestyle-pursuit-ruka",
+		"keyword_type_cname": "league",
+		"externalid": "124533"
+	},
+	{
+		"id": "211951",
+		"name": "[15km] [Freestyle] [Pursuit] [Val Mustair] [Men]",
+		"cname": "15km-freestyle-pursuit-val-mustair-men",
+		"keyword_type_cname": "league",
+		"externalid": "416086"
+	},
+	{
+		"id": "125109",
+		"name": "[15km] [Freestyle] [Seefeld]",
+		"cname": "15km-freestyle-seefeld",
+		"keyword_type_cname": "league",
+		"externalid": "128734"
+	},
+	{
+		"id": "122450",
+		"name": "[15km] [Freestyle] [Toblach]",
+		"cname": "15km-freestyle-toblach",
+		"keyword_type_cname": "league",
+		"externalid": "126075"
+	},
+	{
+		"id": "99510",
+		"name": "[15km Freestyle Ulricehamn]",
+		"cname": "15km-freestyle-ulricehamn",
+		"keyword_type_cname": "league",
+		"externalid": "103135"
+	},
+	{
+		"id": "30883",
+		"name": "[15 Km Freestyle Val di Fiemme]",
+		"cname": "15-km-freestyle-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "34508"
+	},
+	{
+		"id": "41474",
+		"name": "[15km] [Individual]",
+		"cname": "15km-individual",
+		"keyword_type_cname": "league",
+		"externalid": "45099"
+	},
+	{
+		"id": "211952",
+		"name": "[15km] [Individual] [Anterselva]",
+		"cname": "15km-individual-anterselva",
+		"keyword_type_cname": "league",
+		"externalid": "416087"
+	},
+	{
+		"id": "99387",
+		"name": "[15km] [Individual] [Antholz]",
+		"cname": "15km-individual-antholz",
+		"keyword_type_cname": "league",
+		"externalid": "103012"
+	},
+	{
+		"id": "137595",
+		"name": "[15km] [Individual] [Canmore]",
+		"cname": "15km-individual-canmore",
+		"keyword_type_cname": "league",
+		"externalid": "141220"
+	},
+	{
+		"id": "57591",
+		"name": "[15 Km Individual] [Kontiolahti]",
+		"cname": "15-km-individual-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "61216"
+	},
+	{
+		"id": "211953",
+		"name": "[15km] [Individual] [Kontolahti]",
+		"cname": "15km-individual-kontolahti",
+		"keyword_type_cname": "league",
+		"externalid": "416088"
+	},
+	{
+		"id": "211954",
+		"name": "[15km] [Individual] [Kontolahti] [Women]",
+		"cname": "15km-individual-kontolahti-women",
+		"keyword_type_cname": "league",
+		"externalid": "416089"
+	},
+	{
+		"id": "74519",
+		"name": "[15km] [Individual] [Oestersund]",
+		"cname": "15km-individual-oestersund",
+		"keyword_type_cname": "league",
+		"externalid": "78144"
+	},
+	{
+		"id": "56206",
+		"name": "[15km] [Individual] [Oslo Holmenkollen]",
+		"cname": "15km-individual-oslo-holmenkollen",
+		"keyword_type_cname": "league",
+		"externalid": "59831"
+	},
+	{
+		"id": "39684",
+		"name": "[15Km Individual Ostersund]",
+		"cname": "15km-individual-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "43309"
+	},
+	{
+		"id": "137596",
+		"name": "[15km] [Individual] [Pokljuka]",
+		"cname": "15km-individual-pokljuka",
+		"keyword_type_cname": "league",
+		"externalid": "141221"
+	},
+	{
+		"id": "76758",
+		"name": "[15km Individual Ruhpolding]",
+		"cname": "15km-individual-ruhpolding",
+		"keyword_type_cname": "league",
+		"externalid": "80383"
+	},
+	{
+		"id": "30990",
+		"name": "[15km Individual Sochi]",
+		"cname": "15km-individual-sochi",
+		"keyword_type_cname": "league",
+		"externalid": "34615"
+	},
+	{
+		"id": "126574",
+		"name": "[15km Mass Start]",
+		"cname": "15km-mass-start",
+		"keyword_type_cname": "league",
+		"externalid": "130199"
+	},
+	{
+		"id": "122766",
+		"name": "[15km Mass Start Annecy]",
+		"cname": "15km-mass-start-annecy",
+		"keyword_type_cname": "league",
+		"externalid": "126391"
+	},
+	{
+		"id": "124873",
+		"name": "[15km] [Mass Start] [Anterselva]",
+		"cname": "15km-mass-start-anterselva",
+		"keyword_type_cname": "league",
+		"externalid": "128498"
+	},
+	{
+		"id": "99550",
+		"name": "[15km] [Mass Start] [Antholz]",
+		"cname": "15km-mass-start-antholz",
+		"keyword_type_cname": "league",
+		"externalid": "103175"
+	},
+	{
+		"id": "77973",
+		"name": "[15km Mass Start Canmore]",
+		"cname": "15km-mass-start-canmore",
+		"keyword_type_cname": "league",
+		"externalid": "81598"
+	},
+	{
+		"id": "128454",
+		"name": "[15km] [Mass Start] [Classic] [Falun]",
+		"cname": "15km-mass-start-classic-falun",
+		"keyword_type_cname": "league",
+		"externalid": "132079"
+	},
+	{
+		"id": "137597",
+		"name": "[15km] [Mass Start] [Classic] [Oberstdorf]",
+		"cname": "15km-mass-start-classic-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "141222"
+	},
+	{
+		"id": "102624",
+		"name": "[15km] [Mass Start] [Classic] [Quebec City]",
+		"cname": "15km-mass-start-classic-quebec-city",
+		"keyword_type_cname": "league",
+		"externalid": "106249"
+	},
+	{
+		"id": "123774",
+		"name": "[15km] [Mass Start] [Classic] [Val Di Fiemme]",
+		"cname": "15km-mass-start-classic-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "127399"
+	},
+	{
+		"id": "78398",
+		"name": "[15Km Mass Start Falun]",
+		"cname": "15km-mass-start-falun",
+		"keyword_type_cname": "league",
+		"externalid": "82023"
+	},
+	{
+		"id": "97935",
+		"name": "[15km] [Mass Start] [Freestyle] [La Clusaz]",
+		"cname": "15km-mass-start-freestyle-la-clusaz",
+		"keyword_type_cname": "league",
+		"externalid": "101560"
+	},
+	{
+		"id": "15518",
+		"name": "[15KM Mass Start F Rybinsk]",
+		"cname": "15km-mass-start-f-rybinsk",
+		"keyword_type_cname": "league",
+		"externalid": "18925"
+	},
+	{
+		"id": "211955",
+		"name": "[15km] [Mass Start] [Hochfilzen]",
+		"cname": "15km-mass-start-hochfilzen",
+		"keyword_type_cname": "league",
+		"externalid": "416090"
+	},
+	{
+		"id": "30944",
+		"name": "[15 Km Mass Start Holmenkollen]",
+		"cname": "15-km-mass-start-holmenkollen",
+		"keyword_type_cname": "league",
+		"externalid": "34569"
+	},
+	{
+		"id": "31103",
+		"name": "[15 Km Mass Start Khanty Mansiysk]",
+		"cname": "15-km-mass-start-khanty-mansiysk",
+		"keyword_type_cname": "league",
+		"externalid": "34728"
+	},
+	{
+		"id": "31129",
+		"name": "[15km Mass Start Khanty Mansiysk]",
+		"cname": "15km-mass-start-khanty-mansiysk",
+		"keyword_type_cname": "league",
+		"externalid": "34754"
+	},
+	{
+		"id": "57922",
+		"name": "[15 Km] [Mass Start] [Kontiolahti]",
+		"cname": "15-km-mass-start-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "61547"
+	},
+	{
+		"id": "128001",
+		"name": "[15km Mass Start Kontiolahti]",
+		"cname": "15km-mass-start-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "131626"
+	},
+	{
+		"id": "97933",
+		"name": "[15km] [Mass Start] [La Clusaz]",
+		"cname": "15km-mass-start-la-clusaz",
+		"keyword_type_cname": "league",
+		"externalid": "101558"
+	},
+	{
+		"id": "167054",
+		"name": "[15km] [Mass Start] [Le Grand Bornand]",
+		"cname": "15km-mass-start-le-grand-bornand",
+		"keyword_type_cname": "league",
+		"externalid": "371058"
+	},
+	{
+		"id": "76032",
+		"name": "[15KM Mass Start Lenzerheide]",
+		"cname": "15km-mass-start-lenzerheide",
+		"keyword_type_cname": "league",
+		"externalid": "79657"
+	},
+	{
+		"id": "15791",
+		"name": "[15km] [Mass Start] [Nove Mesto]",
+		"cname": "15km-mass-start-nove-mesto",
+		"keyword_type_cname": "league",
+		"externalid": "19198"
+	},
+	{
+		"id": "40792",
+		"name": "[15km] [Mass Start] [Oberhof]",
+		"cname": "15km-mass-start-oberhof",
+		"keyword_type_cname": "league",
+		"externalid": "44417"
+	},
+	{
+		"id": "76363",
+		"name": "[15km Mass-Start Oberstdorf]",
+		"cname": "15km-mass-start-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "79988"
+	},
+	{
+		"id": "102677",
+		"name": "[15km] [Mass Start] [Oslo]",
+		"cname": "15km-mass-start-oslo",
+		"keyword_type_cname": "league",
+		"externalid": "106302"
+	},
+	{
+		"id": "241195",
+		"name": "[15km] [Mass Start] [Ostersund]",
+		"cname": "15km-mass-start-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "427818"
+	},
+	{
+		"id": "241196",
+		"name": "[15km] [Mass Start] [Otepaa]",
+		"cname": "15km-mass-start-otepaa",
+		"keyword_type_cname": "league",
+		"externalid": "427819"
+	},
+	{
+		"id": "75569",
+		"name": "[15km] [Mass Start] [Pokljuka]",
+		"cname": "15km-mass-start-pokljuka",
+		"keyword_type_cname": "league",
+		"externalid": "79194"
+	},
+	{
+		"id": "30139",
+		"name": "[15 km] [Mass Start] [Ruhpolding]",
+		"cname": "15-km-mass-start-ruhpolding",
+		"keyword_type_cname": "league",
+		"externalid": "33764"
+	},
+	{
+		"id": "76552",
+		"name": "[15km Mass Start Ruhpolding]",
+		"cname": "15km-mass-start-ruhpolding",
+		"keyword_type_cname": "league",
+		"externalid": "80177"
+	},
+	{
+		"id": "125306",
+		"name": "[15km] [Mass Start] [Seefeld]",
+		"cname": "15km-mass-start-seefeld",
+		"keyword_type_cname": "league",
+		"externalid": "128931"
+	},
+	{
+		"id": "129106",
+		"name": "[15km] [Mass Start] [Tyumen]",
+		"cname": "15km-mass-start-tyumen",
+		"keyword_type_cname": "league",
+		"externalid": "132731"
+	},
+	{
+		"id": "55053",
+		"name": "[15km Mass Start Val Di Fiemme]",
+		"cname": "15km-mass-start-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "58678"
+	},
+	{
+		"id": "122446",
+		"name": "[15KM Masstart Annecy]",
+		"cname": "15km-masstart-annecy",
+		"keyword_type_cname": "league",
+		"externalid": "126071"
+	},
+	{
+		"id": "76030",
+		"name": "[15KM Masstart Lenzerheide]",
+		"cname": "15km-masstart-lenzerheide",
+		"keyword_type_cname": "league",
+		"externalid": "79655"
+	},
+	{
+		"id": "56373",
+		"name": "[15km Oestersund]",
+		"cname": "15km-oestersund",
+		"keyword_type_cname": "league",
+		"externalid": "59998"
+	},
+	{
+		"id": "29422",
+		"name": "[15 Km Ostersund]",
+		"cname": "15-km-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "33047"
+	},
+	{
+		"id": "54022",
+		"name": "[15km Pursui Llillehammer]",
+		"cname": "15km-pursui-llillehammer",
+		"keyword_type_cname": "league",
+		"externalid": "57647"
+	},
+	{
+		"id": "122452",
+		"name": "[15KM Pursuit Classic Toblach]",
+		"cname": "15km-pursuit-classic-toblach",
+		"keyword_type_cname": "league",
+		"externalid": "126077"
+	},
+	{
+		"id": "43621",
+		"name": "[15km Pursuit Falun]",
+		"cname": "15km-pursuit-falun",
+		"keyword_type_cname": "league",
+		"externalid": "47246"
+	},
+	{
+		"id": "128523",
+		"name": "[15km] [Pursuit] [Freestyle] [Falun]",
+		"cname": "15km-pursuit-freestyle-falun",
+		"keyword_type_cname": "league",
+		"externalid": "132148"
+	},
+	{
+		"id": "102627",
+		"name": "[15km] [Pursuit] [Freestyle] [Quebec City]",
+		"cname": "15km-pursuit-freestyle-quebec-city",
+		"keyword_type_cname": "league",
+		"externalid": "106252"
+	},
+	{
+		"id": "120906",
+		"name": "[15km] [Pursuit] [Freestyle] [Ruka] [Men]",
+		"cname": "15km-pursuit-freestyle-ruka-men",
+		"keyword_type_cname": "league",
+		"externalid": "124531"
+	},
+	{
+		"id": "39897",
+		"name": "[15km Pursuit Kuusamo]",
+		"cname": "15km-pursuit-kuusamo",
+		"keyword_type_cname": "league",
+		"externalid": "43522"
+	},
+	{
+		"id": "54024",
+		"name": "[15km Pursuit Lillehammer]",
+		"cname": "15km-pursuit-lillehammer",
+		"keyword_type_cname": "league",
+		"externalid": "57649"
+	},
+	{
+		"id": "54023",
+		"name": "[15km Pursuit Llillehammer]",
+		"cname": "15km-pursuit-llillehammer",
+		"keyword_type_cname": "league",
+		"externalid": "57648"
+	},
+	{
+		"id": "14266",
+		"name": "[15km-Pursuit-Oberhof]",
+		"cname": "15km-pursuit-oberhof",
+		"keyword_type_cname": "league",
+		"externalid": "17673"
+	},
+	{
+		"id": "54669",
+		"name": "[15km] [Pursuit] [Oberstdorf]",
+		"cname": "15km-pursuit-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "58294"
+	},
+	{
+		"id": "14442",
+		"name": "[15KM Pursuit Toblach]",
+		"cname": "15km-pursuit-toblach",
+		"keyword_type_cname": "league",
+		"externalid": "17849"
+	},
+	{
+		"id": "55496",
+		"name": "[15km] [Rybinsk]",
+		"cname": "15km-rybinsk",
+		"keyword_type_cname": "league",
+		"externalid": "59121"
+	},
+	{
+		"id": "125508",
+		"name": "[15km] [Skiathlon]",
+		"cname": "15km-skiathlon",
+		"keyword_type_cname": "league",
+		"externalid": "129133"
+	},
+	{
+		"id": "78717",
+		"name": "[15km Skiathlon] [Lahti]",
+		"cname": "15km-skiathlon-lahti",
+		"keyword_type_cname": "league",
+		"externalid": "82342"
+	},
+	{
+		"id": "100236",
+		"name": "[15km] [Skiathlon] [Pyeongchang]",
+		"cname": "15km-skiathlon-pyeongchang",
+		"keyword_type_cname": "league",
+		"externalid": "103861"
+	},
+	{
+		"id": "55580",
+		"name": "[15km] [Skiathlon] [Rybinsk]",
+		"cname": "15km-skiathlon-rybinsk",
+		"keyword_type_cname": "league",
+		"externalid": "59205"
+	},
+	{
+		"id": "30775",
+		"name": "[15Km Skiathlon Val di Fiemme]",
+		"cname": "15km-skiathlon-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "34400"
+	},
+	{
+		"id": "122542",
+		"name": "[170 Checkout]",
+		"cname": "170-checkout",
+		"keyword_type_cname": "league",
+		"externalid": "126167"
+	},
+	{
+		"id": "241197",
+		"name": "[18 Hole Matches] - [1st Round]",
+		"cname": "18-hole-matches---1st-round",
+		"keyword_type_cname": "league",
+		"externalid": "427820"
+	},
+	{
+		"id": "241198",
+		"name": "[18 Hole Matches] - [2nd Round]",
+		"cname": "18-hole-matches---2nd-round",
+		"keyword_type_cname": "league",
+		"externalid": "427821"
+	},
+	{
+		"id": "241199",
+		"name": "[18 Hole Matches] - [3rd Round]",
+		"cname": "18-hole-matches---3rd-round",
+		"keyword_type_cname": "league",
+		"externalid": "427822"
+	},
+	{
+		"id": "241200",
+		"name": "[18 Hole Matches] - [4th Round]",
+		"cname": "18-hole-matches---4th-round",
+		"keyword_type_cname": "league",
+		"externalid": "427823"
+	},
+	{
+		"id": "2710",
+		"name": "[1a Divisao]",
+		"cname": "1a-divisao",
+		"keyword_type_cname": "league",
+		"externalid": "6117"
+	},
+	{
+		"id": "241201",
+		"name": "[1a Divisao Juniores] [U20]",
+		"cname": "1a-divisao-juniores-u20",
+		"keyword_type_cname": "league",
+		"externalid": "427824"
+	},
+	{
+		"id": "82183",
+		"name": "[1a Divisao] [Women]",
+		"cname": "1a-divisao-women",
+		"keyword_type_cname": "league",
+		"externalid": "85808"
+	},
+	{
+		"id": "84059",
+		"name": "[1a Divisiao Juniores]",
+		"cname": "1a-divisiao-juniores",
+		"keyword_type_cname": "league",
+		"externalid": "87684"
+	},
+	{
+		"id": "36828",
+		"name": "[1a Division]",
+		"cname": "1a-division",
+		"keyword_type_cname": "league",
+		"externalid": "40453"
+	},
+	{
+		"id": "43747",
+		"name": "[1. A SKL]",
+		"cname": "1--a-skl",
+		"keyword_type_cname": "league",
+		"externalid": "47372"
+	},
+	{
+		"id": "103641",
+		"name": "[1 A SKL]",
+		"cname": "1-a-skl",
+		"keyword_type_cname": "league",
+		"externalid": "107266"
+	},
+	{
+		"id": "133167",
+		"name": "[1. A SKL, Final Round]",
+		"cname": "1-a-skl-final-round",
+		"keyword_type_cname": "league",
+		"externalid": "136792"
+	},
+	{
+		"id": "159937",
+		"name": "[1. A SKL, Relegation Round]",
+		"cname": "1-a-skl-relegation-round",
+		"keyword_type_cname": "league",
+		"externalid": "163562"
+	},
+	{
+		"id": "59937",
+		"name": "[1 Bundesliga]",
+		"cname": "1-bundesliga",
+		"keyword_type_cname": "league",
+		"externalid": "63562"
+	},
+	{
+		"id": "13817",
+		"name": "[1. Bundesliga]",
+		"cname": "1--bundesliga",
+		"keyword_type_cname": "league",
+		"externalid": "17224"
+	},
+	{
+		"id": "11064",
+		"name": "[1. Bundesliga] [Men]",
+		"cname": "1--bundesliga-men",
+		"keyword_type_cname": "league",
+		"externalid": "14471"
+	},
+	{
+		"id": "161440",
+		"name": "[1. Bundesliga, Placement matches]",
+		"cname": "1-bundesliga-placement-matches",
+		"keyword_type_cname": "league",
+		"externalid": "165065"
+	},
+	{
+		"id": "134962",
+		"name": "[1. Bundesliga, Playoffs]",
+		"cname": "1-bundesliga-playoffs",
+		"keyword_type_cname": "league",
+		"externalid": "138587"
+	},
+	{
+		"id": "159314",
+		"name": "[1. Bundesliga, Relegation/Promotion]",
+		"cname": "1-bundesliga-relegation-promotion",
+		"keyword_type_cname": "league",
+		"externalid": "162939"
+	},
+	{
+		"id": "11063",
+		"name": "[1. Bundesliga] [Women]",
+		"cname": "1--bundesliga-women",
+		"keyword_type_cname": "league",
+		"externalid": "14470"
+	},
+	{
+		"id": "167055",
+		"name": "[1. Bundesliga, Women]",
+		"cname": "1--bundesliga--women",
+		"keyword_type_cname": "league",
+		"externalid": "371059"
+	},
+	{
+		"id": "97567",
+		"name": "[1 Bundesliga] [Women]",
+		"cname": "1-bundesliga-women",
+		"keyword_type_cname": "league",
+		"externalid": "101192"
+	},
+	{
+		"id": "161018",
+		"name": "[1. Bundesliga Women, Playoffs]",
+		"cname": "1-bundesliga-women-playoffs",
+		"keyword_type_cname": "league",
+		"externalid": "164643"
+	},
+	{
+		"id": "159293",
+		"name": "[1. Bundesliga, Women, Relegation/Promotion]",
+		"cname": "1-bundesliga-women-relegation-promotion",
+		"keyword_type_cname": "league",
+		"externalid": "162918"
+	},
+	{
+		"id": "35456",
+		"name": "[1 CFL]",
+		"cname": "1-cfl",
+		"keyword_type_cname": "league",
+		"externalid": "39081"
+	},
+	{
+		"id": "79712",
+		"name": "[1 Day To Go]",
+		"cname": "1-day-to-go",
+		"keyword_type_cname": "league",
+		"externalid": "83337"
+	},
+	{
+		"id": "76862",
+		"name": "[1 DBBL]",
+		"cname": "1-dbbl",
+		"keyword_type_cname": "league",
+		"externalid": "80487"
+	},
+	{
+		"id": "161104",
+		"name": "[1. DBBL, Playoffs]",
+		"cname": "1-dbbl-playoffs",
+		"keyword_type_cname": "league",
+		"externalid": "164729"
+	},
+	{
+		"id": "80774",
+		"name": "[1 DBBL] [Women]",
+		"cname": "1-dbbl-women",
+		"keyword_type_cname": "league",
+		"externalid": "84399"
+	},
+	{
+		"id": "2714",
+		"name": "[1 deild]",
+		"cname": "1-deild",
+		"keyword_type_cname": "league",
+		"externalid": "6121"
+	},
+	{
+		"id": "32506",
+		"name": "[1. deild] [Women]",
+		"cname": "1--deild-women",
+		"keyword_type_cname": "league",
+		"externalid": "36131"
+	},
+	{
+		"id": "33547",
+		"name": "[1 deild] [Women]",
+		"cname": "1-deild-women",
+		"keyword_type_cname": "league",
+		"externalid": "37172"
+	},
+	{
+		"id": "94485",
+		"name": "[1 Divisao]",
+		"cname": "1-divisao",
+		"keyword_type_cname": "league",
+		"externalid": "98110"
+	},
+	{
+		"id": "2713",
+		"name": "[1 Division]",
+		"cname": "1-division",
+		"keyword_type_cname": "league",
+		"externalid": "6120"
+	},
+	{
+		"id": "166261",
+		"name": "[1. Division]",
+		"cname": "1--division",
+		"keyword_type_cname": "league",
+		"externalid": "369799"
+	},
+	{
+		"id": "211714",
+		"name": "[1. Division, Women]",
+		"cname": "1--division--women",
+		"keyword_type_cname": "league",
+		"externalid": "415816"
+	},
+	{
+		"id": "2712",
+		"name": "[1 Division] [Women]",
+		"cname": "1-division-women",
+		"keyword_type_cname": "league",
+		"externalid": "6119"
+	},
+	{
+		"id": "163201",
+		"name": "[1 Division, Women]",
+		"cname": "1-division--women",
+		"keyword_type_cname": "league",
+		"externalid": "227252"
+	},
+	{
+		"id": "167056",
+		"name": "[1 Divisjon]",
+		"cname": "1-divisjon",
+		"keyword_type_cname": "league",
+		"externalid": "371060"
+	},
+	{
+		"id": "2072",
+		"name": "[1 Divizion]",
+		"cname": "1-divizion",
+		"keyword_type_cname": "league",
+		"externalid": "5479"
+	},
+	{
+		"id": "54411",
+		"name": "[1. Gencler Ligi]",
+		"cname": "1--gencler-ligi",
+		"keyword_type_cname": "league",
+		"externalid": "58036"
+	},
+	{
+		"id": "54412",
+		"name": "[1. Gencler Ligi] [Women]",
+		"cname": "1--gencler-ligi-women",
+		"keyword_type_cname": "league",
+		"externalid": "58037"
+	},
+	{
+		"id": "238164",
+		"name": "[1. HMNL]",
+		"cname": "1--hmnl",
+		"keyword_type_cname": "league",
+		"externalid": "423633"
+	},
+	{
+		"id": "2158",
+		"name": "[1 HNL]",
+		"cname": "1-hnl",
+		"keyword_type_cname": "league",
+		"externalid": "5565"
+	},
+	{
+		"id": "101987",
+		"name": "[1. HRL] [Women]",
+		"cname": "1--hrl-women",
+		"keyword_type_cname": "league",
+		"externalid": "105612"
+	},
+	{
+		"id": "80627",
+		"name": "[1 HRL] [Women]",
+		"cname": "1-hrl-women",
+		"keyword_type_cname": "league",
+		"externalid": "84252"
+	},
+	{
+		"id": "160864",
+		"name": "[1. League Women]",
+		"cname": "1-league-women",
+		"keyword_type_cname": "league",
+		"externalid": "164489"
+	},
+	{
+		"id": "1977",
+		"name": "[1 Lig]",
+		"cname": "1-lig",
+		"keyword_type_cname": "league",
+		"externalid": "5384"
+	},
+	{
+		"id": "1721",
+		"name": "[1. Lig]",
+		"cname": "1--lig",
+		"keyword_type_cname": "league",
+		"externalid": "5128"
+	},
+	{
+		"id": "2711",
+		"name": "[1 Liga]",
+		"cname": "1-liga",
+		"keyword_type_cname": "league",
+		"externalid": "6118"
+	},
+	{
+		"id": "102408",
+		"name": "[1. Liga]",
+		"cname": "1--liga",
+		"keyword_type_cname": "league",
+		"externalid": "106033"
+	},
+	{
+		"id": "167057",
+		"name": "[1 Liga Cup]",
+		"cname": "1-liga-cup",
+		"keyword_type_cname": "league",
+		"externalid": "371061"
+	},
+	{
+		"id": "159799",
+		"name": "[1. Liga, Group D]",
+		"cname": "1-liga-group-d",
+		"keyword_type_cname": "league",
+		"externalid": "163424"
+	},
+	{
+		"id": "158688",
+		"name": "[1.Liga, Playoffs]",
+		"cname": "1-liga-playoffs",
+		"keyword_type_cname": "league",
+		"externalid": "162313"
+	},
+	{
+		"id": "131476",
+		"name": "[1. Liga, Playout]",
+		"cname": "1-liga-playout",
+		"keyword_type_cname": "league",
+		"externalid": "135101"
+	},
+	{
+		"id": "93437",
+		"name": "[1 Liga] [Women]",
+		"cname": "1-liga-women",
+		"keyword_type_cname": "league",
+		"externalid": "97062"
+	},
+	{
+		"id": "167058",
+		"name": "[1 Lig Turkey Boost]",
+		"cname": "1-lig-turkey-boost",
+		"keyword_type_cname": "league",
+		"externalid": "371062"
+	},
+	{
+		"id": "11059",
+		"name": "[1. Lig] [Women]",
+		"cname": "1--lig-women",
+		"keyword_type_cname": "league",
+		"externalid": "14466"
+	},
+	{
+		"id": "59936",
+		"name": "[1 Lig] [Women]",
+		"cname": "1-lig-women",
+		"keyword_type_cname": "league",
+		"externalid": "63561"
+	},
+	{
+		"id": "119194",
+		"name": "[1 Liiga]",
+		"cname": "1-liiga",
+		"keyword_type_cname": "league",
+		"externalid": "122819"
+	},
+	{
+		"id": "32920",
+		"name": "[1 Lyga]",
+		"cname": "1-lyga",
+		"keyword_type_cname": "league",
+		"externalid": "36545"
+	},
+	{
+		"id": "35476",
+		"name": "[1 MFL]",
+		"cname": "1-mfl",
+		"keyword_type_cname": "league",
+		"externalid": "39101"
+	},
+	{
+		"id": "103241",
+		"name": "[1 SKL]",
+		"cname": "1-skl",
+		"keyword_type_cname": "league",
+		"externalid": "106866"
+	},
+	{
+		"id": "82875",
+		"name": "[1 SKL] [Women]",
+		"cname": "1-skl-women",
+		"keyword_type_cname": "league",
+		"externalid": "86500"
+	},
+	{
+		"id": "134034",
+		"name": "[1. Slovenska Mladinska Liga]",
+		"cname": "1-slovenska-mladinska-liga",
+		"keyword_type_cname": "league",
+		"externalid": "137659"
+	},
+	{
+		"id": "460",
+		"name": "[1st Division]",
+		"cname": "1st-division",
+		"keyword_type_cname": "league",
+		"externalid": "3867"
+	},
+	{
+		"id": "134397",
+		"name": "[1st Division, Championship group]",
+		"cname": "1st-division-championship-group",
+		"keyword_type_cname": "league",
+		"externalid": "138022"
+	},
+	{
+		"id": "160613",
+		"name": "[1st Division, Playoffs]",
+		"cname": "1st-division-playoffs",
+		"keyword_type_cname": "league",
+		"externalid": "164238"
+	},
+	{
+		"id": "132381",
+		"name": "[1st Division, Relegation group]",
+		"cname": "1st-division-relegation-group",
+		"keyword_type_cname": "league",
+		"externalid": "136006"
+	},
+	{
+		"id": "2709",
+		"name": "[1st Division] [Women]",
+		"cname": "1st-division-women",
+		"keyword_type_cname": "league",
+		"externalid": "6116"
+	},
+	{
+		"id": "11050",
+		"name": "[1st League]",
+		"cname": "1st-league",
+		"keyword_type_cname": "league",
+		"externalid": "14457"
+	},
+	{
+		"id": "160797",
+		"name": "[1st League, Championship round ]",
+		"cname": "1st-league-championship-round-",
+		"keyword_type_cname": "league",
+		"externalid": "164422"
+	},
+	{
+		"id": "45345",
+		"name": "[1st League] [Women]",
+		"cname": "1st-league-women",
+		"keyword_type_cname": "league",
+		"externalid": "48970"
+	},
+	{
+		"id": "167059",
+		"name": "[1st Leg] [Mixed Relay]",
+		"cname": "1st-leg-mixed-relay",
+		"keyword_type_cname": "league",
+		"externalid": "371063"
+	},
+	{
+		"id": "211717",
+		"name": "[1st Liga]",
+		"cname": "1st-liga",
+		"keyword_type_cname": "league",
+		"externalid": "415832"
+	},
+	{
+		"id": "63500",
+		"name": "[1st Round] [2 Balls]",
+		"cname": "1st-round-2-balls",
+		"keyword_type_cname": "league",
+		"externalid": "67125"
+	},
+	{
+		"id": "63496",
+		"name": "[1st Round] [3 Balls]",
+		"cname": "1st-round-3-balls",
+		"keyword_type_cname": "league",
+		"externalid": "67121"
+	},
+	{
+		"id": "241202",
+		"name": "[1st Round] [3 Balls] - [Men]",
+		"cname": "1st-round-3-balls---men",
+		"keyword_type_cname": "league",
+		"externalid": "427825"
+	},
+	{
+		"id": "97375",
+		"name": "[1st Round] [Scramble]",
+		"cname": "1st-round-scramble",
+		"keyword_type_cname": "league",
+		"externalid": "101000"
+	},
+	{
+		"id": "42719",
+		"name": "[1st Stage]",
+		"cname": "1st-stage",
+		"keyword_type_cname": "league",
+		"externalid": "46344"
+	},
+	{
+		"id": "63303",
+		"name": "[1st Test]",
+		"cname": "1st-test",
+		"keyword_type_cname": "league",
+		"externalid": "66928"
+	},
+	{
+		"id": "13815",
+		"name": "[1. Vfl Potsdam]",
+		"cname": "1--vfl-potsdam",
+		"keyword_type_cname": "league",
+		"externalid": "17222"
+	},
+	{
+		"id": "241203",
+		"name": "[1xB Series]",
+		"cname": "1xb-series",
+		"keyword_type_cname": "league",
+		"externalid": "427826"
+	},
+	{
+		"id": "241204",
+		"name": "[1X Series]",
+		"cname": "1x-series",
+		"keyword_type_cname": "league",
+		"externalid": "427827"
+	},
+	{
+		"id": "163216",
+		"name": "[1. Zls, Women]",
+		"cname": "1--zls--women",
+		"keyword_type_cname": "league",
+		"externalid": "327712"
+	},
+	{
+		"id": "21205",
+		"name": "[2012 Olympic Games - CSV Qualification]",
+		"cname": "2012-olympic-games---csv-qualification",
+		"keyword_type_cname": "league",
+		"externalid": "24752"
+	},
+	{
+		"id": "21162",
+		"name": "[2012 Olympic Games - CSV Qualification] [Women]",
+		"cname": "2012-olympic-games---csv-qualification-women",
+		"keyword_type_cname": "league",
+		"externalid": "24709"
+	},
+	{
+		"id": "20666",
+		"name": "[2012 Olympic Games - European Qualification]",
+		"cname": "2012-olympic-games---european-qualification",
+		"keyword_type_cname": "league",
+		"externalid": "24193"
+	},
+	{
+		"id": "20678",
+		"name": "[2012 Olympic Games - European Qualification] [Women]",
+		"cname": "2012-olympic-games---european-qualification-women",
+		"keyword_type_cname": "league",
+		"externalid": "24205"
+	},
+	{
+		"id": "21022",
+		"name": "[2012 Olympic Games - NORCECAs Qualification]",
+		"cname": "2012-olympic-games---norcecas-qualification",
+		"keyword_type_cname": "league",
+		"externalid": "24561"
+	},
+	{
+		"id": "20750",
+		"name": "[2012 Olympic Games - NORCECAs Qualification] [Women]",
+		"cname": "2012-olympic-games---norcecas-qualification-women",
+		"keyword_type_cname": "league",
+		"externalid": "24280"
+	},
+	{
+		"id": "21734",
+		"name": "[2012 Olympic Games - World Qualification]",
+		"cname": "2012-olympic-games---world-qualification",
+		"keyword_type_cname": "league",
+		"externalid": "25306"
+	},
+	{
+		"id": "21299",
+		"name": "[2012 Olympic Games - World Qualification] [Women]",
+		"cname": "2012-olympic-games---world-qualification-women",
+		"keyword_type_cname": "league",
+		"externalid": "24851"
+	},
+	{
+		"id": "26806",
+		"name": "[2013 CEV European Championship - 2nd Round]",
+		"cname": "2013-cev-european-championship-2nd-round",
+		"keyword_type_cname": "league",
+		"externalid": "30431"
+	},
+	{
+		"id": "26807",
+		"name": "[2013 CEV European Championship - 2nd Round] [Women]",
+		"cname": "2013-cev-european-championship---2nd-round-women",
+		"keyword_type_cname": "league",
+		"externalid": "30432"
+	},
+	{
+		"id": "40700",
+		"name": "2014 [Specials]",
+		"cname": "2014-specials",
+		"keyword_type_cname": "league",
+		"externalid": "44325"
+	},
+	{
+		"id": "54744",
+		"name": "[2015] [Championship League Snooker]",
+		"cname": "2015-championship-league-snooker",
+		"keyword_type_cname": "league",
+		"externalid": "58369"
+	},
+	{
+		"id": "59853",
+		"name": "[2015 International Wild Card Invitational]",
+		"cname": "2015-international-wild-card-invitational",
+		"keyword_type_cname": "league",
+		"externalid": "63478"
+	},
+	{
+		"id": "60311",
+		"name": "[2015 Mid Season Invitational]",
+		"cname": "2015-mid-season-invitational",
+		"keyword_type_cname": "league",
+		"externalid": "63936"
+	},
+	{
+		"id": "54305",
+		"name": "2015 [Specials]",
+		"cname": "2015-specials",
+		"keyword_type_cname": "league",
+		"externalid": "57930"
+	},
+	{
+		"id": "89978",
+		"name": "[2016 International Wildcard Qualifier]",
+		"cname": "2016-international-wildcard-qualifier",
+		"keyword_type_cname": "league",
+		"externalid": "93603"
+	},
+	{
+		"id": "69245",
+		"name": "[2016 Specials]",
+		"cname": "2016-specials",
+		"keyword_type_cname": "league",
+		"externalid": "72870"
+	},
+	{
+		"id": "97714",
+		"name": "[2017 Specials]",
+		"cname": "2017-specials",
+		"keyword_type_cname": "league",
+		"externalid": "101339"
+	},
+	{
+		"id": "122965",
+		"name": "[2018] [Ace Specials]",
+		"cname": "2018-ace-specials",
+		"keyword_type_cname": "league",
+		"externalid": "126590"
+	},
+	{
+		"id": "122969",
+		"name": "[2018] [ATP Masters 1000] [Specials]",
+		"cname": "2018-atp-masters-1000-specials",
+		"keyword_type_cname": "league",
+		"externalid": "126594"
+	},
+	{
+		"id": "122987",
+		"name": "[2018] [BetYourWay] [Specials]",
+		"cname": "2018-betyourway-specials",
+		"keyword_type_cname": "league",
+		"externalid": "126612"
+	},
+	{
+		"id": "121422",
+		"name": "2018 [Champion]",
+		"cname": "2018-champion",
+		"keyword_type_cname": "league",
+		"externalid": "125047"
+	},
+	{
+		"id": "123069",
+		"name": "[2018] [Davis] and [Fed Cup] [Specials]",
+		"cname": "2018-davis-and-fed-cup-specials",
+		"keyword_type_cname": "league",
+		"externalid": "126694"
+	},
+	{
+		"id": "122898",
+		"name": "[2018] [Grand Slam Singles Titles]",
+		"cname": "2018-grand-slam-singles-titles",
+		"keyword_type_cname": "league",
+		"externalid": "126523"
+	},
+	{
+		"id": "137598",
+		"name": "[2018 Has Left The Game]",
+		"cname": "2018-has-left-the-game",
+		"keyword_type_cname": "league",
+		"externalid": "141223"
+	},
+	{
+		"id": "137599",
+		"name": "[2018 Has Left the Game Korea]",
+		"cname": "2018-has-left-the-game-korea",
+		"keyword_type_cname": "league",
+		"externalid": "141224"
+	},
+	{
+		"id": "121781",
+		"name": "[2018 Ranking Specials]",
+		"cname": "2018-ranking-specials",
+		"keyword_type_cname": "league",
+		"externalid": "125406"
+	},
+	{
+		"id": "121366",
+		"name": "[2018] [Season Match Bets]",
+		"cname": "2018-season-match-bets",
+		"keyword_type_cname": "league",
+		"externalid": "124991"
+	},
+	{
+		"id": "122899",
+		"name": "[2018] [Season Player Rankings]",
+		"cname": "2018-season-player-rankings",
+		"keyword_type_cname": "league",
+		"externalid": "126524"
+	},
+	{
+		"id": "114727",
+		"name": "[2018 Specials]",
+		"cname": "2018-specials",
+		"keyword_type_cname": "league",
+		"externalid": "118352"
+	},
+	{
+		"id": "137600",
+		"name": "[2019] [BetYourWay] [Specials]",
+		"cname": "2019-betyourway-specials",
+		"keyword_type_cname": "league",
+		"externalid": "141225"
+	},
+	{
+		"id": "167060",
+		"name": "[2019 Cheltenahm Festival Specials]",
+		"cname": "2019-cheltenahm-festival-specials",
+		"keyword_type_cname": "league",
+		"externalid": "371064"
+	},
+	{
+		"id": "137601",
+		"name": "[2019] [Grand Slam Singles Titles]",
+		"cname": "2019-grand-slam-singles-titles",
+		"keyword_type_cname": "league",
+		"externalid": "141226"
+	},
+	{
+		"id": "137602",
+		"name": "[2019] [Grand Slam Specials]",
+		"cname": "2019-grand-slam-specials",
+		"keyword_type_cname": "league",
+		"externalid": "141227"
+	},
+	{
+		"id": "137603",
+		"name": "2019 [Ranking Specials]",
+		"cname": "2019-ranking-specials",
+		"keyword_type_cname": "league",
+		"externalid": "141228"
+	},
+	{
+		"id": "137604",
+		"name": "[2019] [Season Match Bets]",
+		"cname": "2019-season-match-bets",
+		"keyword_type_cname": "league",
+		"externalid": "141229"
+	},
+	{
+		"id": "167061",
+		"name": "[2020] [BetYourWay] [Specials]",
+		"cname": "2020-betyourway-specials",
+		"keyword_type_cname": "league",
+		"externalid": "371065"
+	},
+	{
+		"id": "167062",
+		"name": "[2020 Close Price]",
+		"cname": "2020-close-price",
+		"keyword_type_cname": "league",
+		"externalid": "371066"
+	},
+	{
+		"id": "167063",
+		"name": "[2020] [Grand Slam Specials]",
+		"cname": "2020-grand-slam-specials",
+		"keyword_type_cname": "league",
+		"externalid": "371067"
+	},
+	{
+		"id": "167064",
+		"name": "[2020] [Ranking Specials]",
+		"cname": "2020-ranking-specials",
+		"keyword_type_cname": "league",
+		"externalid": "371068"
+	},
+	{
+		"id": "167065",
+		"name": "[2020] [Season Match Bets]",
+		"cname": "2020-season-match-bets",
+		"keyword_type_cname": "league",
+		"externalid": "371069"
+	},
+	{
+		"id": "167066",
+		"name": "2020 [Specials]",
+		"cname": "2020-specials",
+		"keyword_type_cname": "league",
+		"externalid": "371070"
+	},
+	{
+		"id": "211956",
+		"name": "[2021] [BetYourWay] [Specials]",
+		"cname": "2021-betyourway-specials",
+		"keyword_type_cname": "league",
+		"externalid": "416091"
+	},
+	{
+		"id": "211957",
+		"name": "[2021] [Ranking Specials]",
+		"cname": "2021-ranking-specials",
+		"keyword_type_cname": "league",
+		"externalid": "416092"
+	},
+	{
+		"id": "211958",
+		"name": "[2021] [Season Match Bets]",
+		"cname": "2021-season-match-bets",
+		"keyword_type_cname": "league",
+		"externalid": "416093"
+	},
+	{
+		"id": "211959",
+		"name": "[2021] [Serve Specials]",
+		"cname": "2021-serve-specials",
+		"keyword_type_cname": "league",
+		"externalid": "416094"
+	},
+	{
+		"id": "241205",
+		"name": "2021 [US Open]",
+		"cname": "2021-us-open",
+		"keyword_type_cname": "league",
+		"externalid": "427828"
+	},
+	{
+		"id": "241206",
+		"name": "[2022 Betyourway Specials]",
+		"cname": "2022-betyourway-specials",
+		"keyword_type_cname": "league",
+		"externalid": "427829"
+	},
+	{
+		"id": "241207",
+		"name": "[2022 Ranking Specials]",
+		"cname": "2022-ranking-specials",
+		"keyword_type_cname": "league",
+		"externalid": "427830"
+	},
+	{
+		"id": "241208",
+		"name": "[2022] [Season Match Bets]",
+		"cname": "2022-season-match-bets",
+		"keyword_type_cname": "league",
+		"externalid": "427831"
+	},
+	{
+		"id": "241209",
+		"name": "[2022 Specials]",
+		"cname": "2022-specials",
+		"keyword_type_cname": "league",
+		"externalid": "427832"
+	},
+	{
+		"id": "241210",
+		"name": "[2023] [BetYourWay] [Specials]",
+		"cname": "2023-betyourway-specials",
+		"keyword_type_cname": "league",
+		"externalid": "427833"
+	},
+	{
+		"id": "241211",
+		"name": "[2023] [Grand Slam Specials]",
+		"cname": "2023-grand-slam-specials",
+		"keyword_type_cname": "league",
+		"externalid": "427834"
+	},
+	{
+		"id": "241212",
+		"name": "[20km] [Classic] [Mass Start] [Lahti]",
+		"cname": "20km-classic-mass-start-lahti",
+		"keyword_type_cname": "league",
+		"externalid": "427835"
+	},
+	{
+		"id": "14548",
+		"name": "[20km-C-Mass-Start-Val-Di-Fiemme]",
+		"cname": "20km-c-mass-start-val-di-fiemme",
+		"keyword_type_cname": "league",
+		"externalid": "17955"
+	},
+	{
+		"id": "241213",
+		"name": "[20km] [Freestyle] [Davos]",
+		"cname": "20km-freestyle-davos",
+		"keyword_type_cname": "league",
+		"externalid": "427836"
+	},
+	{
+		"id": "41473",
+		"name": "[20km] [Individual]",
+		"cname": "20km-individual",
+		"keyword_type_cname": "league",
+		"externalid": "45098"
+	},
+	{
+		"id": "211960",
+		"name": "[20km] [Individual] [Anterselva]",
+		"cname": "20km-individual-anterselva",
+		"keyword_type_cname": "league",
+		"externalid": "416095"
+	},
+	{
+		"id": "99388",
+		"name": "[20km] [Individual] [Antholz]",
+		"cname": "20km-individual-antholz",
+		"keyword_type_cname": "league",
+		"externalid": "103013"
+	},
+	{
+		"id": "137605",
+		"name": "[20km] [Individual] [Canmore]",
+		"cname": "20km-individual-canmore",
+		"keyword_type_cname": "league",
+		"externalid": "141230"
+	},
+	{
+		"id": "57592",
+		"name": "[20 Km Individual] [Kontiolahti]",
+		"cname": "20-km-individual-kontiolahti",
+		"keyword_type_cname": "league",
+		"externalid": "61217"
+	},
+	{
+		"id": "211961",
+		"name": "[20km] [Individual] [Kontiolathi]",
+		"cname": "20km-individual-kontiolathi",
+		"keyword_type_cname": "league",
+		"externalid": "416096"
+	},
+	{
+		"id": "74629",
+		"name": "[20 KM Individual Oestersund]",
+		"cname": "20-km-individual-oestersund",
+		"keyword_type_cname": "league",
+		"externalid": "78254"
+	},
+	{
+		"id": "53818",
+		"name": "[20km] [Individual] [Oestersund]",
+		"cname": "20km-individual-oestersund",
+		"keyword_type_cname": "league",
+		"externalid": "57443"
+	},
+	{
+		"id": "56207",
+		"name": "[20km] [Individual] [Oslo Holmenkollen]",
+		"cname": "20km-individual-oslo-holmenkollen",
+		"keyword_type_cname": "league",
+		"externalid": "59832"
+	},
+	{
+		"id": "39800",
+		"name": "[20Km Individual Ostersund]",
+		"cname": "20km-individual-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "43425"
+	},
+	{
+		"id": "137606",
+		"name": "[20km] [Individual] [Pokljuka]",
+		"cname": "20km-individual-pokljuka",
+		"keyword_type_cname": "league",
+		"externalid": "141231"
+	},
+	{
+		"id": "76744",
+		"name": "[20] [Km] [Individual] [Ruhpolding]",
+		"cname": "20-km-individual-ruhpolding",
+		"keyword_type_cname": "league",
+		"externalid": "80369"
+	},
+	{
+		"id": "123906",
+		"name": "[20km Individual Ruhpolding]",
+		"cname": "20km-individual-ruhpolding",
+		"keyword_type_cname": "league",
+		"externalid": "127531"
+	},
+	{
+		"id": "30989",
+		"name": "[20km Individual Sochi]",
+		"cname": "20km-individual-sochi",
+		"keyword_type_cname": "league",
+		"externalid": "34614"
+	},
+	{
+		"id": "241214",
+		"name": "[20km] [Mass Start] [Classic] [Les Rousses] [Men]",
+		"cname": "20km-mass-start-classic-les-rousses-men",
+		"keyword_type_cname": "league",
+		"externalid": "427837"
+	},
+	{
+		"id": "241215",
+		"name": "[20km] [Mass Start] [Classic] [Les Rousses] [Women]",
+		"cname": "20km-mass-start-classic-les-rousses-women",
+		"keyword_type_cname": "league",
+		"externalid": "427838"
+	},
+	{
+		"id": "241216",
+		"name": "[20km] [Mass Start] [Classic] [Lillehammer]",
+		"cname": "20km-mass-start-classic-lillehammer",
+		"keyword_type_cname": "league",
+		"externalid": "427839"
+	},
+	{
+		"id": "29419",
+		"name": "[20 Km Ostersund]",
+		"cname": "20-km-ostersund",
+		"keyword_type_cname": "league",
+		"externalid": "33044"
+	},
+	{
+		"id": "241217",
+		"name": "[20km] [Pursuit] [Freestyle] [Oberstdoft]",
+		"cname": "20km-pursuit-freestyle-oberstdoft",
+		"keyword_type_cname": "league",
+		"externalid": "427840"
+	},
+	{
+		"id": "241218",
+		"name": "[20km] [Pursuit] [Freestyle] [Oberstdorf]",
+		"cname": "20km-pursuit-freestyle-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "427841"
+	},
+	{
+		"id": "241219",
+		"name": "[20km] [Pursuit] [Freestyle] [Ruka]",
+		"cname": "20km-pursuit-freestyle-ruka",
+		"keyword_type_cname": "league",
+		"externalid": "427842"
+	},
+	{
+		"id": "98591",
+		"name": "[20km] [Skiathlon] [Oberstdorf]",
+		"cname": "20km-skiathlon-oberstdorf",
+		"keyword_type_cname": "league",
+		"externalid": "102216"
+	},
+	{
+		"id": "87001",
+		"name": "[2.10 Boost]",
+		"cname": "2-10-boost",
+		"keyword_type_cname": "league",
+		"externalid": "90626"
+	},
+	{
+		"id": "124827",
+		"name": "[24 Hours of Daytona]",
+		"cname": "24-hours-of-daytona",
+		"keyword_type_cname": "league",
+		"externalid": "128452"
+	},
+	{
+		"id": "137607",
+		"name": "[24 Hours of Le Mans]",
+		"cname": "24-hours-of-le-mans",
+		"keyword_type_cname": "league",
+		"externalid": "141232"
+	},
+	{
+		"id": "85293",
+		"name": "[24 Hours To Go]",
+		"cname": "24-hours-to-go",
+		"keyword_type_cname": "league",
+		"externalid": "88918"
+	},
+	{
+		"id": "79711",
+		"name": "[24Hrs To Go]",
+		"cname": "24hrs-to-go",
+		"keyword_type_cname": "league",
+		"externalid": "83336"
+	},
+	{
+		"id": "19292",
+		"name": "[2.5KM F Falun]",
+		"cname": "2-5km-f-falun",
+		"keyword_type_cname": "league",
+		"externalid": "22759"
+	},
+	{
+		"id": "79435",
+		"name": "[25Km Points Race]",
+		"cname": "25km-points-race",
+		"keyword_type_cname": "league",
+		"externalid": "83060"
+	},
+	{
+		"id": "54905",
+		"name": "[25km Pursuit Toblach]",
+		"cname": "25km-pursuit-toblach",
+		"keyword_type_cname": "league",
+		"externalid": "58530"
+	},
+	{
+		"id": "86302",
+		"name": "[2A Divisao]",
+		"cname": "2a-divisao",
+		"keyword_type_cname": "league",
+		"externalid": "89927"
+	},
+	{
+		"id": "241220",
+		"name": "[2a Divisao] [Women]",
+		"cname": "2a-divisao-women",
+		"keyword_type_cname": "league",
+		"externalid": "427843"
+	},
+	{
+		"id": "167067",
+		"name": "[2 Ball Boost]",
+		"cname": "2-ball-boost",
+		"keyword_type_cname": "league",
+		"externalid": "371071"
+	},
+	{
+		"id": "244053",
+		"name": "[2 Ball Round 2]",
+		"cname": "2-ball-round-2",
+		"keyword_type_cname": "league",
+		"externalid": "430713"
+	},
+	{
+		"id": "244055",
+		"name": "[2 Ball Round 4]",
+		"cname": "2-ball-round-4",
+		"keyword_type_cname": "league",
+		"externalid": "430716"
+	},
+	{
+		"id": "2708",
+		"name": "[2 Bundesliga]",
+		"cname": "2-bundesliga",
+		"keyword_type_cname": "league",
+		"externalid": "6115"
+	},
+	{
+		"id": "95221",
+		"name": "[2. Bundesliga]",
+		"cname": "2--bundesliga",
+		"keyword_type_cname": "league",
+		"externalid": "98846"
+	},
+	{
+		"id": "137608",
+		"name": "[2 Bundesliga &amp; 3 Liga]",
+		"cname": "2-bundesliga---3-liga",
+		"keyword_type_cname": "league",
+		"externalid": "141233"
+	},
+	{
+		"id": "167068",
+		"name": "[2 Bundesliga] [And] [3 Liga]",
+		"cname": "2-bundesliga-and-3-liga",
+		"keyword_type_cname": "league",
+		"externalid": "371072"
+	},
+	{
+		"id": "88891",
+		"name": "[2 Bundesliga Boost]",
+		"cname": "2-bundesliga-boost",
+		"keyword_type_cname": "league",
+		"externalid": "92516"
+	},
+	{
+		"id": "111147",
+		"name": "[2 Bundesliga Countdown]",
+		"cname": "2-bundesliga-countdown",
+		"keyword_type_cname": "league",
+		"externalid": "114772"
+	},
+	{
+		"id": "120398",
+		"name": "[2 Bundesliga North]",
+		"cname": "2-bundesliga-north",
+		"keyword_type_cname": "league",
+		"externalid": "124023"
+	},
+	{
+		"id": "241221",
+		"name": "[2 Bundesliga North] [Women]",
+		"cname": "2-bundesliga-north-women",
+		"keyword_type_cname": "league",
+		"externalid": "427844"
+	},
+	{
+		"id": "117075",
+		"name": "[2 Bundesliga South]",
+		"cname": "2-bundesliga-south",
+		"keyword_type_cname": "league",
+		"externalid": "120700"
+	},
+	{
+		"id": "70236",
+		"name": "[2 Bundesliga] [South] [Women]",
+		"cname": "2-bundesliga-south-women",
+		"keyword_type_cname": "league",
+		"externalid": "73861"
+	}
+]
